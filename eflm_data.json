@@ -1,0 +1,4124 @@
+{
+  "last_updated": "2026-03-26 15:18:44",
+  "total": 280,
+  "success": 93,
+  "errors": 17,
+  "data": [
+    {
+      "test": "HbA1c",
+      "search": "Haemoglobin A1c (IFCC)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 1.7,
+        "cvg": 7.2
+      },
+      "opt": {
+        "cva": 0.4,
+        "bias": 0.9,
+        "te": 0.9,
+        "mau": 1.6
+      },
+      "des": {
+        "cva": 0.9,
+        "bias": 1.8,
+        "te": 1.7,
+        "mau": 3.3
+      },
+      "min": {
+        "cva": 1.3,
+        "bias": 2.8,
+        "te": 2.6,
+        "mau": 4.9
+      }
+    },
+    {
+      "test": "AAGP2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AAT2",
+      "search": "a-1 antitrypsin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 3.8,
+        "cvg": 10.1
+      },
+      "opt": {
+        "cva": 1.0,
+        "bias": 1.3,
+        "te": 1.9,
+        "mau": 2.9
+      },
+      "des": {
+        "cva": 1.9,
+        "bias": 2.7,
+        "te": 3.8,
+        "mau": 5.8
+      },
+      "min": {
+        "cva": 2.8,
+        "bias": 4.0,
+        "te": 5.7,
+        "mau": 8.7
+      }
+    },
+    {
+      "test": "ACET2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ACP2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ALB2-G",
+      "search": "Albumin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 2.5,
+        "cvg": 4.3
+      },
+      "opt": {
+        "cva": 0.6,
+        "bias": 0.6,
+        "te": 1.3,
+        "mau": 1.7
+      },
+      "des": {
+        "cva": 1.3,
+        "bias": 1.2,
+        "te": 2.5,
+        "mau": 3.3
+      },
+      "min": {
+        "cva": 1.9,
+        "bias": 1.9,
+        "te": 3.8,
+        "mau": 5.0
+      }
+    },
+    {
+      "test": "ALBT2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ALBT2C",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ALBT2U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ALP2",
+      "search": "Alkaline phosphatase (ALP), liver type",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 6.0,
+        "cvg": 21.0
+      },
+      "opt": {
+        "cva": 1.5,
+        "bias": 2.7,
+        "te": 3.0,
+        "mau": 5.2
+      },
+      "des": {
+        "cva": 3.0,
+        "bias": 5.5,
+        "te": 6.0,
+        "mau": 10.4
+      },
+      "min": {
+        "cva": 4.5,
+        "bias": 8.2,
+        "te": 9.0,
+        "mau": 15.6
+      }
+    },
+    {
+      "test": "ALTP2",
+      "search": "Alanine transaminase (ALT)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 12.6,
+        "cvg": 30.0
+      },
+      "opt": {
+        "cva": 3.2,
+        "bias": 4.1,
+        "te": 6.3,
+        "mau": 9.3
+      },
+      "des": {
+        "cva": 6.3,
+        "bias": 8.1,
+        "te": 12.6,
+        "mau": 18.5
+      },
+      "min": {
+        "cva": 9.5,
+        "bias": 12.2,
+        "te": 18.9,
+        "mau": 27.8
+      }
+    },
+    {
+      "test": "AM1Q2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AM1S2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AM3Q2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AM3S2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AM5Q2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AM5QC",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AM5-QP",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AM5S2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AMIK2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AMYL2",
+      "search": "Amylase",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 6.7,
+        "cvg": 29.4
+      },
+      "opt": {
+        "cva": 1.7,
+        "bias": 3.8,
+        "te": 3.4,
+        "mau": 6.5
+      },
+      "des": {
+        "cva": 3.4,
+        "bias": 7.5,
+        "te": 6.7,
+        "mau": 13.1
+      },
+      "min": {
+        "cva": 5.0,
+        "bias": 11.3,
+        "te": 10.1,
+        "mau": 19.6
+      }
+    },
+    {
+      "test": "AMYL2U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AMYP2",
+      "search": "Pancreatic Amylase",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 6.7,
+        "cvg": 25.7
+      },
+      "opt": {
+        "cva": 1.7,
+        "bias": 3.3,
+        "te": 3.4,
+        "mau": 6.1
+      },
+      "des": {
+        "cva": 3.4,
+        "bias": 6.6,
+        "te": 6.7,
+        "mau": 12.2
+      },
+      "min": {
+        "cva": 5.0,
+        "bias": 10.0,
+        "te": 10.1,
+        "mau": 18.3
+      }
+    },
+    {
+      "test": "AMYP2U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "APOAT",
+      "search": "Apolipoprotein A1",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 4.7,
+        "cvg": 8.0
+      },
+      "opt": {
+        "cva": 1.2,
+        "bias": 1.2,
+        "te": 2.4,
+        "mau": 3.1
+      },
+      "des": {
+        "cva": 2.4,
+        "bias": 2.3,
+        "te": 4.7,
+        "mau": 6.2
+      },
+      "min": {
+        "cva": 3.5,
+        "bias": 3.5,
+        "te": 7.1,
+        "mau": 9.3
+      }
+    },
+    {
+      "test": "APOBT",
+      "search": "Apolipoprotein B",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 6.1,
+        "cvg": 20.4
+      },
+      "opt": {
+        "cva": 1.5,
+        "bias": 2.7,
+        "te": 3.1,
+        "mau": 5.2
+      },
+      "des": {
+        "cva": 3.1,
+        "bias": 5.3,
+        "te": 6.1,
+        "mau": 10.4
+      },
+      "min": {
+        "cva": 4.6,
+        "bias": 8.0,
+        "te": 9.1,
+        "mau": 15.5
+      }
+    },
+    {
+      "test": "ASLOT",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ASTP2",
+      "search": "Aspartate transaminase (AST)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 8.6,
+        "cvg": 19.6
+      },
+      "opt": {
+        "cva": 2.2,
+        "bias": 2.7,
+        "te": 4.3,
+        "mau": 6.2
+      },
+      "des": {
+        "cva": 4.3,
+        "bias": 5.4,
+        "te": 8.6,
+        "mau": 12.4
+      },
+      "min": {
+        "cva": 6.5,
+        "bias": 8.0,
+        "te": 12.9,
+        "mau": 18.7
+      }
+    },
+    {
+      "test": "AT",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "B2MG",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "B2MGU",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "BA2QP",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "BA2QP",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "BA2SP",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "BILD2-D",
+      "search": "Bilirubin - conjugated (direct)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 19.5,
+        "cvg": 21.9
+      },
+      "opt": {
+        "cva": 4.9,
+        "bias": 3.7,
+        "te": 9.8,
+        "mau": 11.7
+      },
+      "des": {
+        "cva": 9.8,
+        "bias": 7.3,
+        "te": 19.5,
+        "mau": 23.4
+      },
+      "min": {
+        "cva": 14.6,
+        "bias": 11.0,
+        "te": 29.3,
+        "mau": 35.1
+      }
+    },
+    {
+      "test": "BILD2-J",
+      "search": "Bilirubin - conjugated (direct)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 19.5,
+        "cvg": 21.9
+      },
+      "opt": {
+        "cva": 4.9,
+        "bias": 3.7,
+        "te": 9.8,
+        "mau": 11.7
+      },
+      "des": {
+        "cva": 9.8,
+        "bias": 7.3,
+        "te": 19.5,
+        "mau": 23.4
+      },
+      "min": {
+        "cva": 14.6,
+        "bias": 11.0,
+        "te": 29.3,
+        "mau": 35.1
+      }
+    },
+    {
+      "test": "BILT3",
+      "search": "Bilirubin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 20.2,
+        "cvg": 24.9
+      },
+      "opt": {
+        "cva": 5.1,
+        "bias": 4.0,
+        "te": 10.1,
+        "mau": 12.3
+      },
+      "des": {
+        "cva": 10.1,
+        "bias": 8.0,
+        "te": 20.2,
+        "mau": 24.7
+      },
+      "min": {
+        "cva": 15.2,
+        "bias": 12.0,
+        "te": 30.3,
+        "mau": 37.0
+      }
+    },
+    {
+      "test": "BNZ2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "BZ1Q2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "BZ1S2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "BZ2Q2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "BZ2S2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "BZ3Q2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "BZ3‐QP",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "BZ3S2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "BZQ1C",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "C3C-2",
+      "search": "Complement 3 (C3)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 4.6,
+        "cvg": 15.2
+      },
+      "opt": {
+        "cva": 1.2,
+        "bias": 2.0,
+        "te": 2.3,
+        "mau": 3.9
+      },
+      "des": {
+        "cva": 2.3,
+        "bias": 4.0,
+        "te": 4.6,
+        "mau": 7.8
+      },
+      "min": {
+        "cva": 3.5,
+        "bias": 6.0,
+        "te": 6.9,
+        "mau": 11.6
+      }
+    },
+    {
+      "test": "C4-2",
+      "search": "Complement 4 (C4)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 6.9,
+        "cvg": 24.5
+      },
+      "opt": {
+        "cva": 1.7,
+        "bias": 3.2,
+        "te": 3.5,
+        "mau": 6.0
+      },
+      "des": {
+        "cva": 3.5,
+        "bias": 6.4,
+        "te": 6.9,
+        "mau": 12.1
+      },
+      "min": {
+        "cva": 5.2,
+        "bias": 9.5,
+        "te": 10.4,
+        "mau": 18.1
+      }
+    },
+    {
+      "test": "CA2",
+      "search": "Calcium (Ca)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 1.8,
+        "cvg": 2.2
+      },
+      "opt": {
+        "cva": 0.5,
+        "bias": 0.4,
+        "te": 0.9,
+        "mau": 1.1
+      },
+      "des": {
+        "cva": 0.9,
+        "bias": 0.7,
+        "te": 1.8,
+        "mau": 2.2
+      },
+      "min": {
+        "cva": 1.4,
+        "bias": 1.1,
+        "te": 2.7,
+        "mau": 3.3
+      }
+    },
+    {
+      "test": "CA2U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CARB4",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CER",
+      "search": "Ceruloplasmin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 5.0,
+        "cvg": 15.1
+      },
+      "opt": {
+        "cva": 1.3,
+        "bias": 2.0,
+        "te": 2.5,
+        "mau": 4.1
+      },
+      "des": {
+        "cva": 2.5,
+        "bias": 4.0,
+        "te": 5.0,
+        "mau": 8.1
+      },
+      "min": {
+        "cva": 3.8,
+        "bias": 6.0,
+        "te": 7.5,
+        "mau": 12.2
+      }
+    },
+    {
+      "test": "CHE2-D",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CHE2-T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CHOL2-A",
+      "search": "Cholesterol",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 5.4,
+        "cvg": 15.8
+      },
+      "opt": {
+        "cva": 1.4,
+        "bias": 2.1,
+        "te": 2.7,
+        "mau": 4.3
+      },
+      "des": {
+        "cva": 2.7,
+        "bias": 4.2,
+        "te": 5.4,
+        "mau": 8.6
+      },
+      "min": {
+        "cva": 4.1,
+        "bias": 6.3,
+        "te": 8.1,
+        "mau": 12.9
+      }
+    },
+    {
+      "test": "CHOL2-I",
+      "search": "Cholesterol",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 5.4,
+        "cvg": 15.8
+      },
+      "opt": {
+        "cva": 1.4,
+        "bias": 2.1,
+        "te": 2.7,
+        "mau": 4.3
+      },
+      "des": {
+        "cva": 2.7,
+        "bias": 4.2,
+        "te": 5.4,
+        "mau": 8.6
+      },
+      "min": {
+        "cva": 4.1,
+        "bias": 6.3,
+        "te": 8.1,
+        "mau": 12.9
+      }
+    },
+    {
+      "test": "CK2",
+      "search": "Creatine Kinase",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 14.1,
+        "cvg": 32.9
+      },
+      "opt": {
+        "cva": 3.5,
+        "bias": 4.5,
+        "te": 7.1,
+        "mau": 10.3
+      },
+      "des": {
+        "cva": 7.1,
+        "bias": 8.9,
+        "te": 14.1,
+        "mau": 20.6
+      },
+      "min": {
+        "cva": 10.6,
+        "bias": 13.4,
+        "te": 21.2,
+        "mau": 30.9
+      }
+    },
+    {
+      "test": "CKMB2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CO1Q2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CO1‑QP",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CO1S2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CO2-L",
+      "search": "Actual bicarbonate",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 4.0,
+        "cvg": 4.8
+      },
+      "opt": {
+        "cva": 1.0,
+        "bias": 0.8,
+        "te": 2.0,
+        "mau": 2.4
+      },
+      "des": {
+        "cva": 2.0,
+        "bias": 1.6,
+        "te": 4.0,
+        "mau": 4.9
+      },
+      "min": {
+        "cva": 3.0,
+        "bias": 2.3,
+        "te": 6.0,
+        "mau": 7.3
+      }
+    },
+    {
+      "test": "CO3Q2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CO3QC",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CO3S2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CREJ2",
+      "search": "Creatinine",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 4.4,
+        "cvg": 15.8
+      },
+      "opt": {
+        "cva": 1.1,
+        "bias": 2.1,
+        "te": 2.2,
+        "mau": 3.9
+      },
+      "des": {
+        "cva": 2.2,
+        "bias": 4.1,
+        "te": 4.4,
+        "mau": 7.7
+      },
+      "min": {
+        "cva": 3.3,
+        "bias": 6.2,
+        "te": 6.6,
+        "mau": 11.6
+      }
+    },
+    {
+      "test": "CREJ2U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CREP2",
+      "search": "Creatinine",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 4.4,
+        "cvg": 15.8
+      },
+      "opt": {
+        "cva": 1.1,
+        "bias": 2.1,
+        "te": 2.2,
+        "mau": 3.9
+      },
+      "des": {
+        "cva": 2.2,
+        "bias": 4.1,
+        "te": 4.4,
+        "mau": 7.7
+      },
+      "min": {
+        "cva": 3.3,
+        "bias": 6.2,
+        "te": 6.6,
+        "mau": 11.6
+      }
+    },
+    {
+      "test": "CREP2U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CRP4",
+      "search": "C-reactive protein (CRP)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 34.7,
+        "cvg": 87.1
+      },
+      "opt": {
+        "cva": 8.7,
+        "bias": 11.7,
+        "te": 17.4,
+        "mau": 26.0
+      },
+      "des": {
+        "cva": 17.4,
+        "bias": 23.4,
+        "te": 34.7,
+        "mau": 52.1
+      },
+      "min": {
+        "cva": 26.0,
+        "bias": 35.2,
+        "te": 52.1,
+        "mau": 78.1
+      }
+    },
+    {
+      "test": "CRP-HS",
+      "search": "C-reactive protein (CRP) - high-sensitive",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "CYSC2",
+      "search": "Cystatin C",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 3.3,
+        "cvg": 10.8
+      },
+      "opt": {
+        "cva": 0.8,
+        "bias": 1.4,
+        "te": 1.7,
+        "mau": 2.8
+      },
+      "des": {
+        "cva": 1.7,
+        "bias": 2.8,
+        "te": 3.3,
+        "mau": 5.5
+      },
+      "min": {
+        "cva": 2.5,
+        "bias": 4.2,
+        "te": 4.9,
+        "mau": 8.3
+      }
+    },
+    {
+      "test": "DDI2‑C",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "DDI2‑H",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "DIG",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ETOH2",
+      "search": "Ethanol level",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "ETOH2U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "FERR4",
+      "search": "Ferritin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 12.9,
+        "cvg": 0.0
+      },
+      "opt": {
+        "cva": 3.2,
+        "bias": 1.6,
+        "te": 6.5,
+        "mau": 6.9
+      },
+      "des": {
+        "cva": 6.5,
+        "bias": 3.2,
+        "te": 12.9,
+        "mau": 13.9
+      },
+      "min": {
+        "cva": 9.7,
+        "bias": 4.8,
+        "te": 19.4,
+        "mau": 20.8
+      }
+    },
+    {
+      "test": "FRA",
+      "search": "Fructosamine",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 2.3,
+        "cvg": 6.3
+      },
+      "opt": {
+        "cva": 0.6,
+        "bias": 0.8,
+        "te": 1.2,
+        "mau": 1.8
+      },
+      "des": {
+        "cva": 1.2,
+        "bias": 1.7,
+        "te": 2.3,
+        "mau": 3.6
+      },
+      "min": {
+        "cva": 1.7,
+        "bias": 2.5,
+        "te": 3.5,
+        "mau": 5.4
+      }
+    },
+    {
+      "test": "GENT2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "GGT2-I",
+      "search": "g-glutamyl transferase activity",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 8.3,
+        "cvg": 45.1
+      },
+      "opt": {
+        "cva": 2.1,
+        "bias": 5.7,
+        "te": 4.2,
+        "mau": 9.2
+      },
+      "des": {
+        "cva": 4.2,
+        "bias": 11.5,
+        "te": 8.3,
+        "mau": 18.3
+      },
+      "min": {
+        "cva": 6.2,
+        "bias": 17.2,
+        "te": 12.5,
+        "mau": 27.5
+      }
+    },
+    {
+      "test": "GGT2-S",
+      "search": "g-glutamyl transferase activity",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 8.3,
+        "cvg": 45.1
+      },
+      "opt": {
+        "cva": 2.1,
+        "bias": 5.7,
+        "te": 4.2,
+        "mau": 9.2
+      },
+      "des": {
+        "cva": 4.2,
+        "bias": 11.5,
+        "te": 8.3,
+        "mau": 18.3
+      },
+      "min": {
+        "cva": 6.2,
+        "bias": 17.2,
+        "te": 12.5,
+        "mau": 27.5
+      }
+    },
+    {
+      "test": "GLUC3",
+      "search": "Glucose",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 4.7,
+        "cvg": 8.0
+      },
+      "opt": {
+        "cva": 1.2,
+        "bias": 1.2,
+        "te": 2.4,
+        "mau": 3.1
+      },
+      "des": {
+        "cva": 2.4,
+        "bias": 2.3,
+        "te": 4.7,
+        "mau": 6.2
+      },
+      "min": {
+        "cva": 3.5,
+        "bias": 3.5,
+        "te": 7.1,
+        "mau": 9.3
+      }
+    },
+    {
+      "test": "GLUC3C",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "GLUC3U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "HAPT2",
+      "search": "Haptoglobin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 8.6,
+        "cvg": 39.0
+      },
+      "opt": {
+        "cva": 2.2,
+        "bias": 5.0,
+        "te": 4.3,
+        "mau": 8.5
+      },
+      "des": {
+        "cva": 4.3,
+        "bias": 10.0,
+        "te": 8.6,
+        "mau": 17.1
+      },
+      "min": {
+        "cva": 6.5,
+        "bias": 15.0,
+        "te": 12.9,
+        "mau": 25.6
+      }
+    },
+    {
+      "test": "HCYS",
+      "search": "Homocysteine - total (tHcy)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 6.1,
+        "cvg": 27.3
+      },
+      "opt": {
+        "cva": 1.5,
+        "bias": 3.5,
+        "te": 3.1,
+        "mau": 6.0
+      },
+      "des": {
+        "cva": 3.1,
+        "bias": 7.0,
+        "te": 6.1,
+        "mau": 12.0
+      },
+      "min": {
+        "cva": 4.6,
+        "bias": 10.5,
+        "te": 9.1,
+        "mau": 18.0
+      }
+    },
+    {
+      "test": "HDLC4",
+      "search": "HDL cholesterol",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 5.7,
+        "cvg": 22.8
+      },
+      "opt": {
+        "cva": 1.4,
+        "bias": 2.9,
+        "te": 2.9,
+        "mau": 5.3
+      },
+      "des": {
+        "cva": 2.9,
+        "bias": 5.9,
+        "te": 5.7,
+        "mau": 10.6
+      },
+      "min": {
+        "cva": 4.3,
+        "bias": 8.8,
+        "te": 8.6,
+        "mau": 15.9
+      }
+    },
+    {
+      "test": "IGA2",
+      "search": "Immunoglobulin A (IgA)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 7.5,
+        "cvg": 32.5
+      },
+      "opt": {
+        "cva": 1.9,
+        "bias": 4.2,
+        "te": 3.8,
+        "mau": 7.3
+      },
+      "des": {
+        "cva": 3.8,
+        "bias": 8.3,
+        "te": 7.5,
+        "mau": 14.5
+      },
+      "min": {
+        "cva": 5.6,
+        "bias": 12.5,
+        "te": 11.3,
+        "mau": 21.8
+      }
+    },
+    {
+      "test": "IGA2-P",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "IGA-CR",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "IGA-SR",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "IGG2",
+      "search": "Immunoglobulin G (IgG)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 3.5,
+        "cvg": 17.1
+      },
+      "opt": {
+        "cva": 0.9,
+        "bias": 2.2,
+        "te": 1.8,
+        "mau": 3.6
+      },
+      "des": {
+        "cva": 1.8,
+        "bias": 4.4,
+        "te": 3.5,
+        "mau": 7.3
+      },
+      "min": {
+        "cva": 2.6,
+        "bias": 6.5,
+        "te": 5.3,
+        "mau": 10.9
+      }
+    },
+    {
+      "test": "IGG2C",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "IGG2U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "IGM2",
+      "search": "Immunoglobulin M (IgM)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 5.9,
+        "cvg": 48.5
+      },
+      "opt": {
+        "cva": 1.5,
+        "bias": 6.1,
+        "te": 3.0,
+        "mau": 8.5
+      },
+      "des": {
+        "cva": 3.0,
+        "bias": 12.2,
+        "te": 5.9,
+        "mau": 17.1
+      },
+      "min": {
+        "cva": 4.4,
+        "bias": 18.3,
+        "te": 8.9,
+        "mau": 25.6
+      }
+    },
+    {
+      "test": "IGM2-P",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "IGM-CR",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "IGM-SR",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "IRON2",
+      "search": "Iron",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 25.2,
+        "cvg": 28.0
+      },
+      "opt": {
+        "cva": 6.3,
+        "bias": 4.7,
+        "te": 12.6,
+        "mau": 15.1
+      },
+      "des": {
+        "cva": 12.6,
+        "bias": 9.4,
+        "te": 25.2,
+        "mau": 30.2
+      },
+      "min": {
+        "cva": 18.9,
+        "bias": 14.1,
+        "te": 37.8,
+        "mau": 45.3
+      }
+    },
+    {
+      "test": "ISE CL",
+      "search": "Chloride",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 1.0,
+        "cvg": 1.3
+      },
+      "opt": {
+        "cva": 0.3,
+        "bias": 0.2,
+        "te": 0.5,
+        "mau": 0.6
+      },
+      "des": {
+        "cva": 0.5,
+        "bias": 0.4,
+        "te": 1.0,
+        "mau": 1.2
+      },
+      "min": {
+        "cva": 0.8,
+        "bias": 0.6,
+        "te": 1.5,
+        "mau": 1.9
+      }
+    },
+    {
+      "test": "ISE CL-P",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ISE CL-U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ISE K",
+      "search": "Potassium",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 3.9,
+        "cvg": 5.5
+      },
+      "opt": {
+        "cva": 1.0,
+        "bias": 0.8,
+        "te": 2.0,
+        "mau": 2.5
+      },
+      "des": {
+        "cva": 2.0,
+        "bias": 1.7,
+        "te": 3.9,
+        "mau": 4.9
+      },
+      "min": {
+        "cva": 2.9,
+        "bias": 2.5,
+        "te": 5.9,
+        "mau": 7.4
+      }
+    },
+    {
+      "test": "ISE K-P",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ISE K-U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ISE Na",
+      "search": "Sodium",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 0.6,
+        "cvg": 0.7
+      },
+      "opt": {
+        "cva": 0.2,
+        "bias": 0.1,
+        "te": 0.3,
+        "mau": 0.4
+      },
+      "des": {
+        "cva": 0.3,
+        "bias": 0.2,
+        "te": 0.6,
+        "mau": 0.7
+      },
+      "min": {
+        "cva": 0.5,
+        "bias": 0.3,
+        "te": 0.9,
+        "mau": 1.1
+      }
+    },
+    {
+      "test": "ISE Na-P",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ISE Na-U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "KAPP2",
+      "search": "Free kappa light chain",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 5.9,
+        "cvg": 14.6
+      },
+      "opt": {
+        "cva": 1.5,
+        "bias": 2.0,
+        "te": 3.0,
+        "mau": 4.4
+      },
+      "des": {
+        "cva": 3.0,
+        "bias": 3.9,
+        "te": 5.9,
+        "mau": 8.8
+      },
+      "min": {
+        "cva": 4.4,
+        "bias": 5.9,
+        "te": 8.9,
+        "mau": 13.2
+      }
+    },
+    {
+      "test": "LACT2C",
+      "search": "Lactate",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 4.4,
+        "cvg": 11.8
+      },
+      "opt": {
+        "cva": 1.1,
+        "bias": 1.6,
+        "te": 2.2,
+        "mau": 3.4
+      },
+      "des": {
+        "cva": 2.2,
+        "bias": 3.1,
+        "te": 4.4,
+        "mau": 6.8
+      },
+      "min": {
+        "cva": 3.3,
+        "bias": 4.7,
+        "te": 6.6,
+        "mau": 10.2
+      }
+    },
+    {
+      "test": "LACT2P",
+      "search": "Lactate",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 4.4,
+        "cvg": 11.8
+      },
+      "opt": {
+        "cva": 1.1,
+        "bias": 1.6,
+        "te": 2.2,
+        "mau": 3.4
+      },
+      "des": {
+        "cva": 2.2,
+        "bias": 3.1,
+        "te": 4.4,
+        "mau": 6.8
+      },
+      "min": {
+        "cva": 3.3,
+        "bias": 4.7,
+        "te": 6.6,
+        "mau": 10.2
+      }
+    },
+    {
+      "test": "LAMB2",
+      "search": "Free lambda light chain",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 5.6,
+        "cvg": 21.9
+      },
+      "opt": {
+        "cva": 1.4,
+        "bias": 2.8,
+        "te": 2.8,
+        "mau": 5.1
+      },
+      "des": {
+        "cva": 2.8,
+        "bias": 5.7,
+        "te": 5.6,
+        "mau": 10.3
+      },
+      "min": {
+        "cva": 4.2,
+        "bias": 8.5,
+        "te": 8.4,
+        "mau": 15.4
+      }
+    },
+    {
+      "test": "LDHI2",
+      "search": "Lactate dehydrogenase (LDH) activity",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 4.4,
+        "cvg": 11.8
+      },
+      "opt": {
+        "cva": 1.1,
+        "bias": 1.6,
+        "te": 2.2,
+        "mau": 3.4
+      },
+      "des": {
+        "cva": 2.2,
+        "bias": 3.1,
+        "te": 4.4,
+        "mau": 6.8
+      },
+      "min": {
+        "cva": 3.3,
+        "bias": 4.7,
+        "te": 6.6,
+        "mau": 10.2
+      }
+    },
+    {
+      "test": "LDHI2P",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "LDLC3",
+      "search": "LDL Cholesterol",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 7.4,
+        "cvg": 24.3
+      },
+      "opt": {
+        "cva": 1.9,
+        "bias": 3.2,
+        "te": 3.7,
+        "mau": 6.2
+      },
+      "des": {
+        "cva": 3.7,
+        "bias": 6.4,
+        "te": 7.4,
+        "mau": 12.5
+      },
+      "min": {
+        "cva": 5.6,
+        "bias": 9.5,
+        "te": 11.1,
+        "mau": 18.7
+      }
+    },
+    {
+      "test": "LI",
+      "search": "Lithium level",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "LIP",
+      "search": "Lipase",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 7.6,
+        "cvg": 24.0
+      },
+      "opt": {
+        "cva": 1.9,
+        "bias": 3.1,
+        "te": 3.8,
+        "mau": 6.3
+      },
+      "des": {
+        "cva": 3.8,
+        "bias": 6.3,
+        "te": 7.6,
+        "mau": 12.6
+      },
+      "min": {
+        "cva": 5.7,
+        "bias": 9.4,
+        "te": 11.4,
+        "mau": 18.8
+      }
+    },
+    {
+      "test": "LPA2",
+      "search": "Lipoprotein (a)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 10.2,
+        "cvg": 85.8
+      },
+      "opt": {
+        "cva": 2.6,
+        "bias": 10.8,
+        "te": 5.1,
+        "mau": 15.0
+      },
+      "des": {
+        "cva": 5.1,
+        "bias": 21.6,
+        "te": 10.2,
+        "mau": 30.0
+      },
+      "min": {
+        "cva": 7.7,
+        "bias": 32.4,
+        "te": 15.3,
+        "mau": 45.0
+      }
+    },
+    {
+      "test": "MG2",
+      "search": "Magnesium",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 2.7,
+        "cvg": 5.9
+      },
+      "opt": {
+        "cva": 0.7,
+        "bias": 0.8,
+        "te": 1.4,
+        "mau": 1.9
+      },
+      "des": {
+        "cva": 1.4,
+        "bias": 1.6,
+        "te": 2.7,
+        "mau": 3.8
+      },
+      "min": {
+        "cva": 2.0,
+        "bias": 2.4,
+        "te": 4.1,
+        "mau": 5.8
+      }
+    },
+    {
+      "test": "MG2U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "MPA",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "NH3L2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "NPP2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "OP2Q2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "OP2S2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "OP3Q2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "OP3QC",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "OP3S2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PC2QC",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PC2QP",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PC2‑QP",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PC2SP",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PHNO2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PHNY2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PHOS2",
+      "search": "Phosphate",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 7.7,
+        "cvg": 10.7
+      },
+      "opt": {
+        "cva": 1.9,
+        "bias": 1.6,
+        "te": 3.9,
+        "mau": 4.8
+      },
+      "des": {
+        "cva": 3.9,
+        "bias": 3.3,
+        "te": 7.7,
+        "mau": 9.6
+      },
+      "min": {
+        "cva": 5.8,
+        "bias": 4.9,
+        "te": 11.6,
+        "mau": 14.5
+      }
+    },
+    {
+      "test": "PHOS2U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PREA",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "RF-II",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "SALI",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "STFR",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH1Q2 - 150T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH1Q2 - 850T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH1S2 - 150T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH1S2 - 850T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH2Q2 - 150T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH2Q2 - 850T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH2S2 - 150T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH2S2 - 850T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH5Q2 - 150T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH5Q2 - 850T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH5QC - 150T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH5QC - 850T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH5‑QP - 150T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH5‑QP - 850T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH5S2 - 150T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TH5S2 - 850T",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "THEO2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TOBR2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TP2",
+      "search": "Protein (total)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 6.9,
+        "cvg": 12.7
+      },
+      "opt": {
+        "cva": 1.7,
+        "bias": 1.8,
+        "te": 3.5,
+        "mau": 4.7
+      },
+      "des": {
+        "cva": 3.5,
+        "bias": 3.6,
+        "te": 6.9,
+        "mau": 9.3
+      },
+      "min": {
+        "cva": 5.2,
+        "bias": 5.4,
+        "te": 10.4,
+        "mau": 14.0
+      }
+    },
+    {
+      "test": "TPC3",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TPU3",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TRIGL",
+      "search": "Triglycerides",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 19.8,
+        "cvg": 35.3
+      },
+      "opt": {
+        "cva": 5.0,
+        "bias": 5.1,
+        "te": 9.9,
+        "mau": 13.2
+      },
+      "des": {
+        "cva": 9.9,
+        "bias": 10.1,
+        "te": 19.8,
+        "mau": 26.5
+      },
+      "min": {
+        "cva": 14.9,
+        "bias": 15.2,
+        "te": 29.7,
+        "mau": 39.7
+      }
+    },
+    {
+      "test": "TRSF2",
+      "search": "Transferrin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 6.9,
+        "cvg": 19.1
+      },
+      "opt": {
+        "cva": 1.7,
+        "bias": 2.5,
+        "te": 3.5,
+        "mau": 5.4
+      },
+      "des": {
+        "cva": 3.5,
+        "bias": 5.1,
+        "te": 6.9,
+        "mau": 10.8
+      },
+      "min": {
+        "cva": 5.2,
+        "bias": 7.6,
+        "te": 10.4,
+        "mau": 16.2
+      }
+    },
+    {
+      "test": "UA2",
+      "search": "Urate",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 8.3,
+        "cvg": 20.9
+      },
+      "opt": {
+        "cva": 2.1,
+        "bias": 2.8,
+        "te": 4.2,
+        "mau": 6.2
+      },
+      "des": {
+        "cva": 4.2,
+        "bias": 5.6,
+        "te": 8.3,
+        "mau": 12.5
+      },
+      "min": {
+        "cva": 6.2,
+        "bias": 8.4,
+        "te": 12.5,
+        "mau": 18.7
+      }
+    },
+    {
+      "test": "UA2U",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "U-BUN",
+      "search": "Urea",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 13.1,
+        "cvg": 20.3
+      },
+      "opt": {
+        "cva": 3.3,
+        "bias": 3.0,
+        "te": 6.6,
+        "mau": 8.4
+      },
+      "des": {
+        "cva": 6.6,
+        "bias": 6.0,
+        "te": 13.1,
+        "mau": 16.8
+      },
+      "min": {
+        "cva": 9.8,
+        "bias": 9.1,
+        "te": 19.7,
+        "mau": 25.3
+      }
+    },
+    {
+      "test": "UBUNU",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "UIBC-I",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "VALP2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "VANC3O",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ACCP",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ACOV2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ACOV2S",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ACTB12",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "ACTH",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AFP",
+      "search": "Alphafetoprotein",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 4.6,
+        "cvg": 55.2
+      },
+      "opt": {
+        "cva": 1.2,
+        "bias": 6.9,
+        "te": 2.3,
+        "mau": 8.8
+      },
+      "des": {
+        "cva": 2.3,
+        "bias": 13.8,
+        "te": 4.6,
+        "mau": 17.6
+      },
+      "min": {
+        "cva": 3.5,
+        "bias": 20.8,
+        "te": 6.9,
+        "mau": 26.5
+      }
+    },
+    {
+      "test": "AHAV 2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AHAVIGM",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AHBC 2 ",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AHBCIGM",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AHBE",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "A‑HBS 2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AHCV 2 ",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "AMHP",
+      "search": "Antimullerian hormone",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 19.2,
+        "cvg": 20.4
+      },
+      "opt": {
+        "cva": 4.8,
+        "bias": 3.5,
+        "te": 9.6,
+        "mau": 11.4
+      },
+      "des": {
+        "cva": 9.6,
+        "bias": 7.0,
+        "te": 19.2,
+        "mau": 22.8
+      },
+      "min": {
+        "cva": 14.4,
+        "bias": 10.5,
+        "te": 28.8,
+        "mau": 34.3
+      }
+    },
+    {
+      "test": "ATG",
+      "search": "Thyroglobulin antibody",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "ATPO",
+      "search": "Thyroid peroxidase antibody (TPO)",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "ATSHR",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "B12 2",
+      "search": "Cobalamin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 7.2,
+        "cvg": 37.0
+      },
+      "opt": {
+        "cva": 1.8,
+        "bias": 4.7,
+        "te": 3.6,
+        "mau": 7.7
+      },
+      "des": {
+        "cva": 3.6,
+        "bias": 9.4,
+        "te": 7.2,
+        "mau": 15.4
+      },
+      "min": {
+        "cva": 5.4,
+        "bias": 14.1,
+        "te": 10.8,
+        "mau": 23.0
+      }
+    },
+    {
+      "test": "CA 15-3 2",
+      "search": "Cancer antigen 15-3 (CA 15.3)",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "CA 19-9",
+      "search": "Cancer antigen 19-9 (CA 19-9)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 4.3,
+        "cvg": 57.4
+      },
+      "opt": {
+        "cva": 1.1,
+        "bias": 7.2,
+        "te": 2.2,
+        "mau": 9.0
+      },
+      "des": {
+        "cva": 2.2,
+        "bias": 14.4,
+        "te": 4.3,
+        "mau": 17.9
+      },
+      "min": {
+        "cva": 3.2,
+        "bias": 21.6,
+        "te": 6.5,
+        "mau": 26.9
+      }
+    },
+    {
+      "test": "CA 72-4",
+      "search": "Cancer antigen 72-4 (CA 72-4)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 50.3,
+        "cvg": 103.4
+      },
+      "opt": {
+        "cva": 12.6,
+        "bias": 14.4,
+        "te": 25.2,
+        "mau": 35.1
+      },
+      "des": {
+        "cva": 25.2,
+        "bias": 28.7,
+        "te": 50.3,
+        "mau": 70.2
+      },
+      "min": {
+        "cva": 37.7,
+        "bias": 43.1,
+        "te": 75.4,
+        "mau": 105.4
+      }
+    },
+    {
+      "test": "CA125 2",
+      "search": "Cancer antigen 125 (CA-125)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 8.7,
+        "cvg": 25.5
+      },
+      "opt": {
+        "cva": 2.2,
+        "bias": 3.4,
+        "te": 4.4,
+        "mau": 7.0
+      },
+      "des": {
+        "cva": 4.4,
+        "bias": 6.7,
+        "te": 8.7,
+        "mau": 13.9
+      },
+      "min": {
+        "cva": 6.5,
+        "bias": 10.1,
+        "te": 13.1,
+        "mau": 20.9
+      }
+    },
+    {
+      "test": "CEA",
+      "search": "Carcinoembryonic antigen (CEA)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 6.8,
+        "cvg": 59.3
+      },
+      "opt": {
+        "cva": 1.7,
+        "bias": 7.5,
+        "te": 3.4,
+        "mau": 10.3
+      },
+      "des": {
+        "cva": 3.4,
+        "bias": 14.9,
+        "te": 6.8,
+        "mau": 20.5
+      },
+      "min": {
+        "cva": 5.1,
+        "bias": 22.4,
+        "te": 10.2,
+        "mau": 30.8
+      }
+    },
+    {
+      "test": "CKMB",
+      "search": "CK-MB isoenzyme activity",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "CKMBST",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CMVAVI",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CMVIGG",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CMVIGM",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CORT 2",
+      "search": "Cortisol",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 16.1,
+        "cvg": 30.1
+      },
+      "opt": {
+        "cva": 4.0,
+        "bias": 4.3,
+        "te": 8.1,
+        "mau": 10.9
+      },
+      "des": {
+        "cva": 8.1,
+        "bias": 8.5,
+        "te": 16.1,
+        "mau": 21.8
+      },
+      "min": {
+        "cva": 12.1,
+        "bias": 12.8,
+        "te": 24.2,
+        "mau": 32.7
+      }
+    },
+    {
+      "test": "CORT 2 - Saliva",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CPEPTID",
+      "search": "Proinsulin C-peptide",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "CPEPTID - Urine",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CROSSL",
+      "search": "C-terminal cross-linked telopeptide of type I collagen (CTX)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 14.5,
+        "cvg": 44.4
+      },
+      "opt": {
+        "cva": 3.6,
+        "bias": 5.8,
+        "te": 7.3,
+        "mau": 11.8
+      },
+      "des": {
+        "cva": 7.3,
+        "bias": 11.7,
+        "te": 14.5,
+        "mau": 23.6
+      },
+      "min": {
+        "cva": 10.9,
+        "bias": 17.5,
+        "te": 21.8,
+        "mau": 35.5
+      }
+    },
+    {
+      "test": "CSA",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "CYFRA",
+      "search": "Cyfra21-1",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "DHEAS",
+      "search": "Dehydroepiandrosterone sulphate (DHEAS)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 20.0,
+        "cvg": 49.0
+      },
+      "opt": {
+        "cva": 5.0,
+        "bias": 6.6,
+        "te": 10.0,
+        "mau": 14.9
+      },
+      "des": {
+        "cva": 10.0,
+        "bias": 13.2,
+        "te": 20.0,
+        "mau": 29.7
+      },
+      "min": {
+        "cva": 15.0,
+        "bias": 19.8,
+        "te": 30.0,
+        "mau": 44.6
+      }
+    },
+    {
+      "test": "DIGIT ",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "DIGO ",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "E2 3",
+      "search": "Estradiol",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 15.0,
+        "cvg": 18.1
+      },
+      "opt": {
+        "cva": 3.8,
+        "bias": 2.9,
+        "te": 7.5,
+        "mau": 9.1
+      },
+      "des": {
+        "cva": 7.5,
+        "bias": 5.9,
+        "te": 15.0,
+        "mau": 18.3
+      },
+      "min": {
+        "cva": 11.3,
+        "bias": 8.8,
+        "te": 22.5,
+        "mau": 27.4
+      }
+    },
+    {
+      "test": "EVL",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "FBHCG",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "FERR",
+      "search": "Ferritin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 12.9,
+        "cvg": 0.0
+      },
+      "opt": {
+        "cva": 3.2,
+        "bias": 1.6,
+        "te": 6.5,
+        "mau": 6.9
+      },
+      "des": {
+        "cva": 6.5,
+        "bias": 3.2,
+        "te": 12.9,
+        "mau": 13.9
+      },
+      "min": {
+        "cva": 9.7,
+        "bias": 4.8,
+        "te": 19.4,
+        "mau": 20.8
+      }
+    },
+    {
+      "test": "FOL",
+      "search": "Folate",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 11.2,
+        "cvg": 26.5
+      },
+      "opt": {
+        "cva": 2.8,
+        "bias": 3.6,
+        "te": 5.6,
+        "mau": 8.2
+      },
+      "des": {
+        "cva": 5.6,
+        "bias": 7.2,
+        "te": 11.2,
+        "mau": 16.4
+      },
+      "min": {
+        "cva": 8.4,
+        "bias": 10.8,
+        "te": 16.8,
+        "mau": 24.6
+      }
+    },
+    {
+      "test": "FPSA",
+      "search": "Prostate specific antigen (PSA) - free",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 7.1,
+        "cvg": 46.2
+      },
+      "opt": {
+        "cva": 1.8,
+        "bias": 5.8,
+        "te": 3.6,
+        "mau": 8.8
+      },
+      "des": {
+        "cva": 3.6,
+        "bias": 11.7,
+        "te": 7.1,
+        "mau": 17.5
+      },
+      "min": {
+        "cva": 5.3,
+        "bias": 17.5,
+        "te": 10.6,
+        "mau": 26.3
+      }
+    },
+    {
+      "test": "FSH",
+      "search": "Follicle stimulating hormone (FSH)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 9.5,
+        "cvg": 37.9
+      },
+      "opt": {
+        "cva": 2.4,
+        "bias": 4.9,
+        "te": 4.8,
+        "mau": 8.8
+      },
+      "des": {
+        "cva": 4.8,
+        "bias": 9.8,
+        "te": 9.5,
+        "mau": 17.6
+      },
+      "min": {
+        "cva": 7.1,
+        "bias": 14.7,
+        "te": 14.3,
+        "mau": 26.4
+      }
+    },
+    {
+      "test": "FT3 3",
+      "search": "Triiodothyronine - free (FT3)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 5.1,
+        "cvg": 8.1
+      },
+      "opt": {
+        "cva": 1.3,
+        "bias": 1.2,
+        "te": 2.6,
+        "mau": 3.3
+      },
+      "des": {
+        "cva": 2.6,
+        "bias": 2.4,
+        "te": 5.1,
+        "mau": 6.6
+      },
+      "min": {
+        "cva": 3.8,
+        "bias": 3.6,
+        "te": 7.7,
+        "mau": 9.9
+      }
+    },
+    {
+      "test": "FT4 4",
+      "search": "Thyroxine - free (FT4)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 4.8,
+        "cvg": 8.0
+      },
+      "opt": {
+        "cva": 1.2,
+        "bias": 1.2,
+        "te": 2.4,
+        "mau": 3.1
+      },
+      "des": {
+        "cva": 2.4,
+        "bias": 2.3,
+        "te": 4.8,
+        "mau": 6.3
+      },
+      "min": {
+        "cva": 3.6,
+        "bias": 3.5,
+        "te": 7.2,
+        "mau": 9.4
+      }
+    },
+    {
+      "test": "GDF‑15",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "HBEAG",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "HBSAG 2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "HBSAGQ2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "HCG-BETA",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "HCGST",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "HCT",
+      "search": "Calcitonin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 13.0,
+        "cvg": 65.8
+      },
+      "opt": {
+        "cva": 3.3,
+        "bias": 8.4,
+        "te": 6.5,
+        "mau": 13.7
+      },
+      "des": {
+        "cva": 6.5,
+        "bias": 16.8,
+        "te": 13.0,
+        "mau": 27.5
+      },
+      "min": {
+        "cva": 9.8,
+        "bias": 25.2,
+        "te": 19.5,
+        "mau": 41.2
+      }
+    },
+    {
+      "test": "HE4",
+      "search": "Human epididymis protein 4 (HE4)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 7.1,
+        "cvg": 17.9
+      },
+      "opt": {
+        "cva": 1.8,
+        "bias": 2.4,
+        "te": 3.6,
+        "mau": 5.3
+      },
+      "des": {
+        "cva": 3.6,
+        "bias": 4.8,
+        "te": 7.1,
+        "mau": 10.7
+      },
+      "min": {
+        "cva": 5.3,
+        "bias": 7.2,
+        "te": 10.6,
+        "mau": 16.0
+      }
+    },
+    {
+      "test": "hGH ",
+      "search": "Growth hormone releasing hormone (GHRH)",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "HIVDUO",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "HSV1",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "HSV2",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "HTLV",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "IGE 2 ",
+      "search": "IgE",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "IGF-1",
+      "search": "Insulin-like growth factor-1 (IGF-1)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 9.4,
+        "cvg": 27.0
+      },
+      "opt": {
+        "cva": 2.4,
+        "bias": 3.6,
+        "te": 4.7,
+        "mau": 7.5
+      },
+      "des": {
+        "cva": 4.7,
+        "bias": 7.1,
+        "te": 9.4,
+        "mau": 14.9
+      },
+      "min": {
+        "cva": 7.1,
+        "bias": 10.7,
+        "te": 14.1,
+        "mau": 22.4
+      }
+    },
+    {
+      "test": "IGFBP-3",
+      "search": "Insulin-like growth factor binding protein 3 (IGFBP-3)",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "IL6",
+      "search": "Interleukin-6 (IL6)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 31.9,
+        "cvg": 39.2
+      },
+      "opt": {
+        "cva": 8.0,
+        "bias": 6.3,
+        "te": 16.0,
+        "mau": 19.5
+      },
+      "des": {
+        "cva": 16.0,
+        "bias": 12.6,
+        "te": 31.9,
+        "mau": 39.0
+      },
+      "min": {
+        "cva": 23.9,
+        "bias": 19.0,
+        "te": 47.8,
+        "mau": 58.4
+      }
+    },
+    {
+      "test": "INSULIN",
+      "search": "Insulin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 25.4,
+        "cvg": 33.5
+      },
+      "opt": {
+        "cva": 6.4,
+        "bias": 5.3,
+        "te": 12.7,
+        "mau": 15.7
+      },
+      "des": {
+        "cva": 12.7,
+        "bias": 10.5,
+        "te": 25.4,
+        "mau": 31.5
+      },
+      "min": {
+        "cva": 19.0,
+        "bias": 15.8,
+        "te": 38.1,
+        "mau": 47.2
+      }
+    },
+    {
+      "test": "LH",
+      "search": "Luteinising hormone (LH)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 25.2,
+        "cvg": 21.4
+      },
+      "opt": {
+        "cva": 6.3,
+        "bias": 4.1,
+        "te": 12.6,
+        "mau": 14.5
+      },
+      "des": {
+        "cva": 12.6,
+        "bias": 8.3,
+        "te": 25.2,
+        "mau": 29.1
+      },
+      "min": {
+        "cva": 18.9,
+        "bias": 12.4,
+        "te": 37.8,
+        "mau": 43.6
+      }
+    },
+    {
+      "test": "MYO",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "MYOST",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "NSE",
+      "search": "Neuron specific enolase",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 10.9,
+        "cvg": 16.6
+      },
+      "opt": {
+        "cva": 2.7,
+        "bias": 2.5,
+        "te": 5.5,
+        "mau": 7.0
+      },
+      "des": {
+        "cva": 5.5,
+        "bias": 5.0,
+        "te": 10.9,
+        "mau": 14.0
+      },
+      "min": {
+        "cva": 8.2,
+        "bias": 7.4,
+        "te": 16.4,
+        "mau": 20.9
+      }
+    },
+    {
+      "test": "OSTEOC",
+      "search": "Osteocalcin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 8.7,
+        "cvg": 32.0
+      },
+      "opt": {
+        "cva": 2.2,
+        "bias": 4.1,
+        "te": 4.4,
+        "mau": 7.7
+      },
+      "des": {
+        "cva": 4.4,
+        "bias": 8.3,
+        "te": 8.7,
+        "mau": 15.5
+      },
+      "min": {
+        "cva": 6.5,
+        "bias": 12.4,
+        "te": 13.1,
+        "mau": 23.2
+      }
+    },
+    {
+      "test": "PAPPA",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PBNPSTX",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PBNPX",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PCTX",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PIVKA",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PLGF",
+      "search": "Placenta growth factor ratio (PlGF)",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "PRL 2",
+      "search": "Prolactin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 45.0,
+        "cvg": 64.3
+      },
+      "opt": {
+        "cva": 11.3,
+        "bias": 9.8,
+        "te": 22.5,
+        "mau": 28.4
+      },
+      "des": {
+        "cva": 22.5,
+        "bias": 19.6,
+        "te": 45.0,
+        "mau": 56.7
+      },
+      "min": {
+        "cva": 33.8,
+        "bias": 29.4,
+        "te": 67.5,
+        "mau": 85.1
+      }
+    },
+    {
+      "test": "PROG 3",
+      "search": "Progesterone",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 18.5,
+        "cvg": 39.7
+      },
+      "opt": {
+        "cva": 4.6,
+        "bias": 5.5,
+        "te": 9.3,
+        "mau": 13.1
+      },
+      "des": {
+        "cva": 9.3,
+        "bias": 10.9,
+        "te": 18.5,
+        "mau": 26.2
+      },
+      "min": {
+        "cva": 13.9,
+        "bias": 16.4,
+        "te": 27.8,
+        "mau": 39.3
+      }
+    },
+    {
+      "test": "PROGRP",
+      "search": "Progastrin-releasing peptide (ProGRP)",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "PTH",
+      "search": "Parathyroid hormone",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 14.7,
+        "cvg": 28.9
+      },
+      "opt": {
+        "cva": 3.7,
+        "bias": 4.1,
+        "te": 7.4,
+        "mau": 10.1
+      },
+      "des": {
+        "cva": 7.4,
+        "bias": 8.1,
+        "te": 14.7,
+        "mau": 20.2
+      },
+      "min": {
+        "cva": 11.0,
+        "bias": 12.2,
+        "te": 22.0,
+        "mau": 30.4
+      }
+    },
+    {
+      "test": "PTH - Plasma",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PTH1‑84",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PTHST",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "PTHST - Plasma",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "RBC‑FOL",
+      "search": "Folate red blood cells",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "RUBIGG",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "RUBIGM",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "S100",
+      "search": "S100 calcium-binding protein B (S100B)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 10.2,
+        "cvg": 32.7
+      },
+      "opt": {
+        "cva": 2.6,
+        "bias": 4.3,
+        "te": 5.1,
+        "mau": 8.5
+      },
+      "des": {
+        "cva": 5.1,
+        "bias": 8.6,
+        "te": 10.2,
+        "mau": 17.0
+      },
+      "min": {
+        "cva": 7.7,
+        "bias": 12.8,
+        "te": 15.3,
+        "mau": 25.5
+      }
+    },
+    {
+      "test": "SCC",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "SFLT1",
+      "search": "Soluble fms-like tyrosine kinase 1 (sFlt-1)",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "SHBG",
+      "search": "Sexual-hormone-binding-globulin (SHBG)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 7.5,
+        "cvg": 44.6
+      },
+      "opt": {
+        "cva": 1.9,
+        "bias": 5.7,
+        "te": 3.8,
+        "mau": 8.7
+      },
+      "des": {
+        "cva": 3.8,
+        "bias": 11.3,
+        "te": 7.5,
+        "mau": 17.5
+      },
+      "min": {
+        "cva": 5.6,
+        "bias": 17.0,
+        "te": 11.3,
+        "mau": 26.2
+      }
+    },
+    {
+      "test": "SRL",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "SYPHILIS",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "T UP",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "T3",
+      "search": "Total tri-iodothyronine (T3)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 6.3,
+        "cvg": 12.4
+      },
+      "opt": {
+        "cva": 1.6,
+        "bias": 1.7,
+        "te": 3.2,
+        "mau": 4.3
+      },
+      "des": {
+        "cva": 3.2,
+        "bias": 3.5,
+        "te": 6.3,
+        "mau": 8.7
+      },
+      "min": {
+        "cva": 4.7,
+        "bias": 5.2,
+        "te": 9.5,
+        "mau": 13.0
+      }
+    },
+    {
+      "test": "T4",
+      "search": "Thyroxine - total (T4)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 6.2,
+        "cvg": 11.9
+      },
+      "opt": {
+        "cva": 1.6,
+        "bias": 1.7,
+        "te": 3.1,
+        "mau": 4.2
+      },
+      "des": {
+        "cva": 3.1,
+        "bias": 3.4,
+        "te": 6.2,
+        "mau": 8.5
+      },
+      "min": {
+        "cva": 4.7,
+        "bias": 5.0,
+        "te": 9.3,
+        "mau": 12.7
+      }
+    },
+    {
+      "test": "TCL",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TESTO",
+      "search": "Testosterone",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 15.0,
+        "cvg": 27.9
+      },
+      "opt": {
+        "cva": 3.8,
+        "bias": 4.0,
+        "te": 7.5,
+        "mau": 10.1
+      },
+      "des": {
+        "cva": 7.5,
+        "bias": 7.9,
+        "te": 15.0,
+        "mau": 20.3
+      },
+      "min": {
+        "cva": 11.3,
+        "bias": 11.9,
+        "te": 22.5,
+        "mau": 30.4
+      }
+    },
+    {
+      "test": "TG 2",
+      "search": "Thyroglobulin",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 10.8,
+        "cvg": 79.3
+      },
+      "opt": {
+        "cva": 2.7,
+        "bias": 10.0,
+        "te": 5.4,
+        "mau": 14.5
+      },
+      "des": {
+        "cva": 5.4,
+        "bias": 20.0,
+        "te": 10.8,
+        "mau": 28.9
+      },
+      "min": {
+        "cva": 8.1,
+        "bias": 30.0,
+        "te": 16.2,
+        "mau": 43.4
+      }
+    },
+    {
+      "test": "TNI",
+      "search": "Troponin I cardiac- contemporary",
+      "status": "error",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26"
+    },
+    {
+      "test": "TNIST",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TNTHSSTX",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TNTHSX",
+      "search": "Troponin T cardiac - high-sensitive (biweekly-monthly sampling)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 11.1,
+        "cvg": 34.4
+      },
+      "opt": {
+        "cva": 2.8,
+        "bias": 4.5,
+        "te": 5.6,
+        "mau": 9.1
+      },
+      "des": {
+        "cva": 5.6,
+        "bias": 9.0,
+        "te": 11.1,
+        "mau": 18.2
+      },
+      "min": {
+        "cva": 8.3,
+        "bias": 13.6,
+        "te": 16.7,
+        "mau": 27.3
+      }
+    },
+    {
+      "test": "TOXOAV",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TOXOIGG",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TOXOIGM",
+      "search": "검색어 확인 불가",
+      "status": "no-term",
+      "progress": 0,
+      "conf": "none"
+    },
+    {
+      "test": "TPSA",
+      "search": "Prostate specific antigen (PSA)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 6.8,
+        "cvg": 42.0
+      },
+      "opt": {
+        "cva": 1.7,
+        "bias": 5.3,
+        "te": 3.4,
+        "mau": 8.1
+      },
+      "des": {
+        "cva": 3.4,
+        "bias": 10.6,
+        "te": 6.8,
+        "mau": 16.2
+      },
+      "min": {
+        "cva": 5.1,
+        "bias": 16.0,
+        "te": 10.2,
+        "mau": 24.4
+      }
+    },
+    {
+      "test": "TSH",
+      "search": "Thyroid stimulating hormone (TSH)",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 17.8,
+        "cvg": 36.0
+      },
+      "opt": {
+        "cva": 4.5,
+        "bias": 5.0,
+        "te": 8.9,
+        "mau": 12.4
+      },
+      "des": {
+        "cva": 8.9,
+        "bias": 10.0,
+        "te": 17.8,
+        "mau": 24.7
+      },
+      "min": {
+        "cva": 13.4,
+        "bias": 15.1,
+        "te": 26.7,
+        "mau": 37.1
+      }
+    },
+    {
+      "test": "VITDT 3",
+      "search": "25-hydroxy vitamin D3",
+      "status": "done",
+      "progress": 0,
+      "conf": "none",
+      "lastUpdate": "2026-03-26",
+      "est": {
+        "cvi": 6.8,
+        "cvg": 30.1
+      },
+      "opt": {
+        "cva": 1.7,
+        "bias": 3.9,
+        "te": 3.4,
+        "mau": 6.7
+      },
+      "des": {
+        "cva": 3.4,
+        "bias": 7.7,
+        "te": 6.8,
+        "mau": 13.3
+      },
+      "min": {
+        "cva": 5.1,
+        "bias": 11.6,
+        "te": 10.2,
+        "mau": 20.0
+      }
+    }
+  ]
+}
