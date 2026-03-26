@@ -1,0 +1,5 @@
+# EFLM Autosheet - Python 의존성
+# GitHub Actions 및 로컬 실행 공통
+
+selenium>=4.18.0
+webdriver-manager>=4.0.0

@@ -1,0 +1,23 @@
+1. EFLM Database 탭에서 EFLM 사이트에서 검색되는 Update date 백앤드에 저장하고 날짜 기억하기
+2. 매달 알아서 프로그램이 업데이트 할때, 검색 기준 Update date 날짜가 동일하면 데이터 업데이트 생략, 다르면 데이터 업데이트
+3. 지난달과 이번달 비교해서 데이터 다른 항목들만 요약해서 EFLM Database 탭 상단에 표시
+4. 검색항목, 수집 완료 진행 중, 오류 누락 부분 수정
+5. Status에서 정상으로 항목된 부분 초록색 표시, 검색어 확인 불가 빨간색 표시, 검색어 확인 잇지만 에러난거 노란색 표시
+6. EFLM Database 아래 부분 중 Test name, EFLM Search Term, Status는 필터 기능 추가해야함 
+Test Name	EFLM Search Term	Estimates	Optimal (최적)	Desirable (권장)	Minimum (최소)	Status
+CVI	CVG	CVa	Bias	TE	MAU	CVa	Bias	TE	MAU	CVa	Bias	TE	MAU
+7. 우측 상단 초록색 마지막 업데이트 날짜 부분 삭제
+8. TEa 보고서 생성에서 엑셀로 추출과 HTLM 파일로 가로로 보고서 생성하는 기능 추가
+9. Direct Bilirubin 2개인데 1개만 입력됨 
+로그상 둘다 성공인데, 프론트앤드에서 잘못 입력되었나?
+[REQUEST] Searching for: Bilirubin - conjugated (direct)
+[SUCCESS] Data collected for Bilirubin - conjugated (direct)
+127.0.0.1 - - [25/Mar/2026 23:49:10] "GET /api/search?query=Bilirubin%20-%20conjugated%20(direct) HTTP/1.1" 200 -
+
+[REQUEST] Searching for: Bilirubin - conjugated (direct)
+[SUCCESS] Data collected for Bilirubin - conjugated (direct)
+127.0.0.1 - - [25/Mar/2026 23:49:19] "GET /api/search?query=Bilirubin%20-%20conjugated%20(direct) HTTP/1.1" 200 -
+
+[REQUEST] Searching for: Bilirubin
+[SUCCESS] Data collected for Bilirubin
+127.0.0.1 - - [25/Mar/2026 23:49:29] "GET /api/search?query=Bilirubin HTTP/1.1" 200 -

@@ -1,0 +1,74 @@
+# GitHub Actions 워크플로우: EFLM 데이터 자동 수집
+# =====================================================
+# 스케줄: 매월 1일 오전 9시 (KST = UTC+2)
+# 수동 실행: GitHub 웹에서 "Run workflow" 버튼 클릭 가능
+# =====================================================
+
+name: EFLM Monthly Data Scraper
+
+on:
+  # 매월 1일 자정(UTC) 자동 실행 → 한국 시간 오전 9시
+  schedule:
+    - cron: '0 0 1 * *'
+  # GitHub Actions 웹 UI에서 수동 실행 가능
+  workflow_dispatch:
+    inputs:
+      test_term:
+        description: '특정 검색어만 테스트 (비워두면 전체 실행)'
+        required: false
+        default: ''
+
+# 레포지토리 쓰기 권한 (결과 파일 자동 커밋에 필요)
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1단계: 레포지토리 코드 체크아웃
+      - name: 레포지토리 체크아웃
+        uses: actions/checkout@v4
+
+      # 2단계: Python 환경 설정
+      - name: Python 3.11 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # 3단계: 의존성 설치
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      # 4단계: Chrome 및 ChromeDriver 설치 (ubuntu-latest에는 기본 미포함)
+      - name: Chrome 설치
+        uses: browser-actions/setup-chrome@v1
+
+      # 5단계: ChromeDriver 설치
+      - name: ChromeDriver 설치
+        uses: nanasess/setup-chromedriver@v2
+
+      # 6단계: 스크래핑 실행
+      - name: EFLM 데이터 수집 실행
+        env:
+          CI: true  # scraper.py가 CI 환경 감지하여 시스템 chromedriver 사용
+        run: |
+          if [ -n "${{ github.event.inputs.test_term }}" ]; then
+            echo "=== 테스트 모드: '${{ github.event.inputs.test_term }}' ==="
+            python scraper.py --test "${{ github.event.inputs.test_term }}"
+          else
+            echo "=== 전체 수집 모드 ==="
+            python scraper.py
+          fi
+
+      # 7단계: 결과 파일을 레포지토리에 자동 커밋 및 푸시
+      - name: 결과 파일 커밋 및 푸시
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add mockup/eflm_data.json
+          # 변경 사항이 있을 때만 커밋 (빈 커밋 방지)
+          git diff --staged --quiet || git commit -m "chore: EFLM 데이터 업데이트 ($(date '+%Y-%m-%d'))"
+          git push
