@@ -40,8 +40,8 @@ REQUEST_DELAY = 1.5
 # NOTE: Selenium 최대 대기 시간 (초)
 WAIT_TIMEOUT = 15
 
-# NOTE: 기본 출력 파일 경로
-DEFAULT_OUTPUT = os.path.join(os.path.dirname(__file__), "mockup", "eflm_data.json")
+# NOTE: 기본 출력 파일 경로 (GitHub Pages 루트에 저장)
+DEFAULT_OUTPUT = os.path.join(os.path.dirname(__file__), "eflm_data.json")
 
 
 # =====================================================

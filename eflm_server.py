@@ -43,8 +43,8 @@ _driver = None
 _driver_lock = threading.Lock()  # 동시 요청으로 인한 충돌 방지
 _wait = None
 
-# 출력 파일 경로
-DATA_OUTPUT = os.path.join(os.path.dirname(__file__), "mockup", "eflm_data.json")
+# 출력 파일 경로 (루트 위치)
+DATA_OUTPUT = os.path.join(os.path.dirname(__file__), "eflm_data.json")
 SEARCH_TERMS_PATH = os.path.join(os.path.dirname(__file__), "search_terms.json")
 
 
