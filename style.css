@@ -1,46 +1,46 @@
 :root {
     /* Roche Brand Palette */
     --roche-dark-blue: #022366;
-    --roche-blue: #0b41cd;      /* Primary */
+    --roche-blue: #0b41cd;
     --roche-light-blue: #1482FA;
     --roche-extra-light-blue: #BDE3FF;
-    
-    --roche-extra-dark-red: #8C0000;
-    --roche-dark-red: #C40000;
     --roche-red: #FF1F26;
-    --roche-light-red: #FF8782;
-    
+    --roche-dark-red: #C40000;
     --roche-grey-1: #544F4F;
     --roche-grey-2: #706B69;
     --roche-grey-3: #C2BAB5;
     --roche-grey-4: #DBD6D1;
     --roche-grey-5: #F5F5F2;
 
-    /* Theme Mapping */
+    /* Theme Mapping (Default: Dark) */
+    --accent-color: #3b82f6;
+    --accent-glow: rgba(59, 130, 246, 0.3);
+    --success: #10b981;
+    --warning: #f59e0b;
+    --danger: #ef4444;
+    
+    --bg-color: #0f172a;
+    --sidebar-bg: #1e293b;
+    --card-bg: #1e293b;
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --glass-border: #334155;
+    --input-bg: #0f172a;
+    --login-overlay: rgba(15, 23, 42, 0.9);
+}
+
+.light-theme {
     --accent-color: var(--roche-blue);
     --accent-glow: rgba(11, 65, 205, 0.3);
-    --success: #10b981; /* Default success is fine, or map to light blue? Let's use it for balance */
-    --warning: #f59e0b;
     --danger: var(--roche-dark-red);
-    
-    /* Light Theme (Default for Brand) */
     --bg-color: var(--roche-grey-5);
-    --sidebar-bg: var(--roche-light-blue); /* Changed from Dark Blue to Light Blue */
+    --sidebar-bg: var(--roche-light-blue);
     --card-bg: #ffffff;
     --text-primary: var(--roche-grey-1);
     --text-secondary: var(--roche-grey-2);
     --glass-border: var(--roche-grey-4);
     --input-bg: #ffffff;
-    --login-overlay: rgba(2, 35, 102, 0.85); /* Dark Blue Overlay */
-}
-
-.light-theme {
-    /* Already primary, but keeping for compatibility */
-    --bg-color: var(--roche-grey-5);
-    --sidebar-bg: var(--roche-dark-blue);
-    --card-bg: #ffffff;
-    --text-primary: var(--roche-grey-1);
-    --text-secondary: var(--roche-grey-2);
+    --login-overlay: rgba(2, 35, 102, 0.85);
 }
 
 /* Loading Spinner */

@@ -12,7 +12,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/exceljs/4.3.0/exceljs.min.js"></script>
 </head>
-<body class="light-theme">
+<body>
     <!-- Login Overlay -->
     <div id="login-overlay" class="login-overlay">
         <div class="login-card">
@@ -409,7 +409,7 @@
                     <div class="setting-item">
                         <div class="setting-info">
                             <h4>테마 설정</h4>
-                            <p>시스템 배경 테마를 전환합니다. (라이트/다크)</p>
+                            <p>화면 테마를 변경합니다. (OFF: 다크 모드 / ON: 라이트 모드)</p>
                         </div>
                         <label class="switch">
                             <input type="checkbox" id="theme-toggle-switch">
@@ -439,6 +439,34 @@
                         <h3 style="margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.5rem;">
                             <i class="fas fa-user-shield" style="color: var(--accent-color)"></i> 검색어 관리 (Admin)
                         </h3>
+                        <div class="section-card" style="padding: 1.5rem; background: var(--card-bg); border: 1px solid var(--glass-border); border-radius: 12px; margin-bottom: 2rem;">
+                            <h4 style="margin-bottom: 1rem;"><i class="fas fa-plus-circle"></i> 신규 항목 추가</h4>
+                            <div style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: flex-end;">
+                                <div class="form-group" style="margin: 0; flex: 1; min-width: 100px;">
+                                    <label style="font-size: 0.8rem;">ACN</label>
+                                    <input type="text" id="new-acn" class="filter-input" placeholder="계정 코드 (예: 20010)">
+                                </div>
+                                <div class="form-group" style="margin: 0; flex: 2; min-width: 150px;">
+                                    <label style="font-size: 0.8rem;">Test Name</label>
+                                    <input type="text" id="new-test" class="filter-input" placeholder="검사명 (예: Glucose)">
+                                </div>
+                                <div class="form-group" style="margin: 0; flex: 3; min-width: 200px;">
+                                    <label style="font-size: 0.8rem;">Search Term</label>
+                                    <input type="text" id="new-search" class="filter-input" placeholder="EFLM 검색어">
+                                </div>
+                                <div class="form-group" style="margin: 0; flex: 1.5; min-width: 120px;">
+                                    <label style="font-size: 0.8rem;">Category</label>
+                                    <select id="new-category" class="filter-input">
+                                        <option value="Chemistry">Chemistry (CC)</option>
+                                        <option value="Immunology">Immunology (IM)</option>
+                                    </select>
+                                </div>
+                                <button class="btn btn-primary" onclick="addNewItem()" style="height: 40px; white-space: nowrap;">
+                                    <i class="fas fa-plus"></i> 항목 추가
+                                </button>
+                            </div>
+                        </div>
+
                         <div class="section-card" style="padding: 0; background: none; border: none;">
                             <div class="admin-filter-bar" style="margin-bottom: 1.5rem; display: flex; gap: 1rem; align-items: center;">
                                 <select id="admin-test-select" class="category-filter" style="width: 250px;" onchange="filterAdminTable(this.value)">
@@ -501,7 +529,7 @@
                 <i class="fas fa-file-excel"></i> 엑셀 파일 다운로드
             </button>
             <button onclick="generateTEaReport('html')" class="btn btn-secondary" style="width: 100%; justify-content: center; height: 45px; font-weight: 600; border: 1px solid var(--accent-color); color: var(--accent-color);">
-                <i class="fas fa-file-code"></i> HTML 가로 보고서 생성
+                <i class="fas fa-file-code"></i> HTML 보고서 생성
             </button>
         </div>
     </div>

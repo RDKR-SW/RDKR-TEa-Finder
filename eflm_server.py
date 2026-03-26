@@ -187,6 +187,34 @@ def get_status():
 # 서버 시작
 # =====================================================
 
+@app.route('/api/save-settings', methods=['POST'])
+def save_settings():
+    """웹에서 수정한 설정(검색어, ACN 등)을 search_terms.json에 영구 저장"""
+    try:
+        data = request.json
+        if not data or not isinstance(data, list):
+            return jsonify({"error": "Invalid data format"}), 400
+            
+        # search_terms.json 파일 경로
+        settings_path = os.path.join(os.path.dirname(__file__), 'search_terms.json')
+        
+        # 필요한 필드만 추출하여 저장 (보안 및 용량 최적화)
+        save_data = []
+        for item in data:
+            save_data.append({
+                "test": item.get("test"),
+                "search": item.get("search"),
+                "category": item.get("category", "Chemistry"),
+                "acn": item.get("acn", 0)
+            })
+            
+        with open(settings_path, 'w', encoding='utf-8') as f:
+            json.dump(save_data, f, ensure_ascii=False, indent=2)
+            
+        return jsonify({"message": f"{len(save_data)}개 항목 저장 완료", "success": True})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 if __name__ == '__main__':
     print("=" * 50)
     print("  EFLM API Server v2.0 - Starting...")
