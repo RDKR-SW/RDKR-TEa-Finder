@@ -2,1961 +2,1681 @@
   {
     "test": "HbA1c",
     "search": "Haemoglobin A1c (IFCC)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 99999
   },
   {
     "test": "AAGP2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20020
   },
   {
     "test": "AAT2",
     "search": "a-1 antitrypsin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20030
   },
   {
     "test": "ACET2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20040
   },
   {
     "test": "ACP2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20050
   },
   {
     "test": "ALB2-G",
     "search": "Albumin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20090
   },
   {
     "test": "ALBT2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20060
   },
   {
     "test": "ALBT2C",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20062
   },
   {
     "test": "ALBT2U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20061
   },
   {
     "test": "ALP2",
     "search": "Alkaline phosphatase (ALP), liver type",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20110
   },
   {
     "test": "ALTP2",
     "search": "Alanine transaminase (ALT)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20140
   },
   {
     "test": "AM1Q2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20163
   },
   {
     "test": "AM1S2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20166
   },
   {
     "test": "AM3Q2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20161
   },
   {
     "test": "AM3S2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20164
   },
   {
     "test": "AM5Q2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20162
   },
   {
     "test": "AM5QC",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20160
   },
   {
     "test": "AM5-QP",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20168
   },
   {
     "test": "AM5S2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20165
   },
   {
     "test": "AMIK2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20150
   },
   {
     "test": "AMYL2",
     "search": "Amylase",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20170
   },
   {
     "test": "AMYL2U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20171
   },
   {
     "test": "AMYP2",
     "search": "Pancreatic Amylase",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20180
   },
   {
     "test": "AMYP2U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20181
   },
   {
     "test": "APOAT",
     "search": "Apolipoprotein A1",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20190
   },
   {
     "test": "APOBT",
     "search": "Apolipoprotein B",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20200
   },
   {
     "test": "ASLOT",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20210
   },
   {
     "test": "ASTP2",
     "search": "Aspartate transaminase (AST)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20230
   },
   {
     "test": "AT",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20240
   },
   {
     "test": "B2MG",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20250
   },
   {
     "test": "B2MGU",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20251
   },
   {
     "test": "BA2QP",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
-  },
-  {
-    "test": "BA2QP",
-    "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20264
   },
   {
     "test": "BA2SP",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20261
   },
   {
     "test": "BILD2-D",
     "search": "Bilirubin - conjugated (direct)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20300
   },
   {
     "test": "BILD2-J",
     "search": "Bilirubin - conjugated (direct)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20301
   },
   {
     "test": "BILT3",
     "search": "Bilirubin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20310
   },
   {
     "test": "BNZ2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20287
   },
   {
     "test": "BZ1Q2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20280
   },
   {
     "test": "BZ1S2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20284
   },
   {
     "test": "BZ2Q2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20281
   },
   {
     "test": "BZ2S2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20285
   },
   {
     "test": "BZ3Q2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20282
   },
   {
     "test": "BZ3‐QP",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20288
   },
   {
     "test": "BZ3S2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20286
   },
   {
     "test": "BZQ1C",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20283
   },
   {
     "test": "C3C-2",
     "search": "Complement 3 (C3)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20320
   },
   {
     "test": "C4-2",
     "search": "Complement 4 (C4)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20330
   },
   {
     "test": "CA2",
     "search": "Calcium (Ca)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20340
   },
   {
     "test": "CA2U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20341
   },
   {
     "test": "CARB4",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20350
   },
   {
     "test": "CER",
     "search": "Ceruloplasmin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20360
   },
   {
     "test": "CHE2-D",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20371
   },
   {
     "test": "CHE2-T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20370
   },
   {
     "test": "CHOL2-A",
     "search": "Cholesterol",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20410
   },
   {
     "test": "CHOL2-I",
     "search": "Cholesterol",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20411
   },
   {
     "test": "CK2",
     "search": "Creatine Kinase",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20420
   },
   {
     "test": "CKMB2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20430
   },
   {
     "test": "CO1Q2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20450
   },
   {
     "test": "CO1‑QP",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20456
   },
   {
     "test": "CO1S2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20452
   },
   {
     "test": "CO2-L",
     "search": "Actual bicarbonate",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20440
   },
   {
     "test": "CO3Q2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20451
   },
   {
     "test": "CO3QC",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20454
   },
   {
     "test": "CO3S2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20453
   },
   {
     "test": "CREJ2",
     "search": "Creatinine",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20470
   },
   {
     "test": "CREJ2U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20471
   },
   {
     "test": "CREP2",
     "search": "Creatinine",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20460
   },
   {
     "test": "CREP2U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20461
   },
   {
     "test": "CRP4",
     "search": "C-reactive protein (CRP)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20500
   },
   {
     "test": "CRP-HS",
     "search": "C-reactive protein (CRP) - high-sensitive",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20480
   },
   {
     "test": "CYSC2",
     "search": "Cystatin C",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20510
   },
   {
     "test": "DDI2‑C",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20530
   },
   {
     "test": "DDI2‑H",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20531
   },
   {
     "test": "DIG",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20540
   },
   {
     "test": "ETOH2",
     "search": "Ethanol level",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20560
   },
   {
     "test": "ETOH2U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20561
   },
   {
     "test": "FERR4",
     "search": "Ferritin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20570
   },
   {
     "test": "FRA",
     "search": "Fructosamine",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20580
   },
   {
     "test": "GENT2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20590
   },
   {
     "test": "GGT2-I",
     "search": "g-glutamyl transferase activity",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20600
   },
   {
     "test": "GGT2-S",
     "search": "g-glutamyl transferase activity",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20601
   },
   {
     "test": "GLUC3",
     "search": "Glucose",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20630
   },
   {
     "test": "GLUC3C",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20632
   },
   {
     "test": "GLUC3U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20631
   },
   {
     "test": "HAPT2",
     "search": "Haptoglobin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20640
   },
   {
     "test": "HCYS",
     "search": "Homocysteine - total (tHcy)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20700
   },
   {
     "test": "HDLC4",
     "search": "HDL cholesterol",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20710
   },
   {
     "test": "IGA2",
     "search": "Immunoglobulin A (IgA)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20720
   },
   {
     "test": "IGA2-P",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20721
   },
   {
     "test": "IGA-CR",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20730
   },
   {
     "test": "IGA-SR",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20731
   },
   {
     "test": "IGG2",
     "search": "Immunoglobulin G (IgG)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20740
   },
   {
     "test": "IGG2C",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20741
   },
   {
     "test": "IGG2U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20743
   },
   {
     "test": "IGM2",
     "search": "Immunoglobulin M (IgM)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20750
   },
   {
     "test": "IGM2-P",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20751
   },
   {
     "test": "IGM-CR",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20760
   },
   {
     "test": "IGM-SR",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20761
   },
   {
     "test": "IRON2",
     "search": "Iron",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20770
   },
   {
     "test": "ISE CL",
     "search": "Chloride",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 29090
   },
   {
     "test": "ISE CL-P",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 29092
   },
   {
     "test": "ISE CL-U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 29091
   },
   {
     "test": "ISE K",
     "search": "Potassium",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 29080
   },
   {
     "test": "ISE K-P",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 29082
   },
   {
     "test": "ISE K-U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 29081
   },
   {
     "test": "ISE Na",
     "search": "Sodium",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 29070
   },
   {
     "test": "ISE Na-P",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 29072
   },
   {
     "test": "ISE Na-U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 29071
   },
   {
     "test": "KAPP2",
     "search": "Free kappa light chain",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20780
   },
   {
     "test": "LACT2C",
     "search": "Lactate",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20790
   },
   {
     "test": "LACT2P",
     "search": "Lactate",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20791
   },
   {
     "test": "LAMB2",
     "search": "Free lambda light chain",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20800
   },
   {
     "test": "LDHI2",
     "search": "Lactate dehydrogenase (LDH) activity",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20810
   },
   {
     "test": "LDHI2P",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20811
   },
   {
     "test": "LDLC3",
     "search": "LDL Cholesterol",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20820
   },
   {
     "test": "LI",
     "search": "Lithium level",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20840
   },
   {
     "test": "LIP",
     "search": "Lipase",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20850
   },
   {
     "test": "LPA2",
     "search": "Lipoprotein (a)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20860
   },
   {
     "test": "MG2",
     "search": "Magnesium",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20890
   },
   {
     "test": "MG2U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20891
   },
   {
     "test": "MPA",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20900
   },
   {
     "test": "NH3L2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20940
   },
   {
     "test": "NPP2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20051
   },
   {
     "test": "OP2Q2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20950
   },
   {
     "test": "OP2S2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20951
   },
   {
     "test": "OP3Q2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20952
   },
   {
     "test": "OP3QC",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20954
   },
   {
     "test": "OP3S2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20953
   },
   {
     "test": "PC2QC",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20962
   },
   {
     "test": "PC2QP",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20960
   },
   {
     "test": "PC2‑QP",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20963
   },
   {
     "test": "PC2SP",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20961
   },
   {
     "test": "PHNO2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20970
   },
   {
     "test": "PHNY2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20980
   },
   {
     "test": "PHOS2",
     "search": "Phosphate",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20990
   },
   {
     "test": "PHOS2U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 20991
   },
   {
     "test": "PREA",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21010
   },
   {
     "test": "RF-II",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21040
   },
   {
     "test": "SALI",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21050
   },
   {
     "test": "STFR",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21080
   },
   {
     "test": "TH1Q2 - 150T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21072
   },
   {
     "test": "TH1Q2 - 850T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21072
   },
   {
     "test": "TH1S2 - 150T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21075
   },
   {
     "test": "TH1S2 - 850T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21075
   },
   {
     "test": "TH2Q2 - 150T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21070
   },
   {
     "test": "TH2Q2 - 850T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21070
   },
   {
     "test": "TH2S2 - 150T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21073
   },
   {
     "test": "TH2S2 - 850T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21073
   },
   {
     "test": "TH5Q2 - 150T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21071
   },
   {
     "test": "TH5Q2 - 850T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21071
   },
   {
     "test": "TH5QC - 150T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21076
   },
   {
     "test": "TH5QC - 850T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21076
   },
   {
     "test": "TH5‑QP - 150T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21078
   },
   {
     "test": "TH5‑QP - 850T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21078
   },
   {
     "test": "TH5S2 - 150T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21074
   },
   {
     "test": "TH5S2 - 850T",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21074
   },
   {
     "test": "THEO2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21090
   },
   {
     "test": "TOBR2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21100
   },
   {
     "test": "TP2",
     "search": "Protein (total)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21110
   },
   {
     "test": "TPC3",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21123
   },
   {
     "test": "TPU3",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21122
   },
   {
     "test": "TRIGL",
     "search": "Triglycerides",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21130
   },
   {
     "test": "TRSF2",
     "search": "Transferrin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21150
   },
   {
     "test": "UA2",
     "search": "Urate",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21170
   },
   {
     "test": "UA2U",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21171
   },
   {
     "test": "U-BUN",
     "search": "Urea",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21192
   },
   {
     "test": "UBUNU",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21193
   },
   {
     "test": "UIBC-I",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21180
   },
   {
     "test": "VALP2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21200
   },
   {
     "test": "VANC3O",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Chemistry",
+    "acn": 21210
   },
   {
     "test": "ACCP",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10084
   },
   {
     "test": "ACOV2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10226
   },
   {
     "test": "ACOV2S",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10230
   },
   {
     "test": "ACTB12",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10152
   },
   {
     "test": "ACTH",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10206
   },
   {
     "test": "AFP",
     "search": "Alphafetoprotein",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10209
   },
   {
     "test": "AHAV 2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10156
   },
   {
     "test": "AHAVIGM",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10162
   },
   {
     "test": "AHBC 2 ",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10142
   },
   {
     "test": "AHBCIGM",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10040
   },
   {
     "test": "AHBE",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10033
   },
   {
     "test": "A‑HBS 2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10179
   },
   {
     "test": "AHCV 2 ",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10189
   },
   {
     "test": "AMHP",
     "search": "Antimullerian hormone",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10158
   },
   {
     "test": "ATG",
     "search": "Thyroglobulin antibody",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10202
   },
   {
     "test": "ATPO",
     "search": "Thyroid peroxidase antibody (TPO)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10066
   },
   {
     "test": "ATSHR",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10174
   },
   {
     "test": "B12 2",
     "search": "Cobalamin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10088
   },
   {
     "test": "CA 15-3 2",
     "search": "Cancer antigen 15-3 (CA 15.3)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10002
   },
   {
     "test": "CA 19-9",
     "search": "Cancer antigen 19-9 (CA 19-9)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10019
   },
   {
     "test": "CA 72-4",
     "search": "Cancer antigen 72-4 (CA 72-4)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10225
   },
   {
     "test": "CA125 2",
     "search": "Cancer antigen 125 (CA-125)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10018
   },
   {
     "test": "CEA",
     "search": "Carcinoembryonic antigen (CEA)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10003
   },
   {
     "test": "CKMB",
     "search": "CK-MB isoenzyme activity",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10041
   },
   {
     "test": "CKMBST",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10058
   },
   {
     "test": "CMVAVI",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 11151
   },
   {
     "test": "CMVIGG",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10218
   },
   {
     "test": "CMVIGM",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10218
   },
   {
     "test": "CORT 2",
     "search": "Cortisol",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10042
   },
   {
     "test": "CORT 2 - Saliva",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10042
   },
   {
     "test": "CPEPTID",
     "search": "Proinsulin C-peptide",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10081
   },
   {
     "test": "CPEPTID - Urine",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10081
   },
   {
     "test": "CROSSL",
     "search": "C-terminal cross-linked telopeptide of type I collagen (CTX)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10062
   },
   {
     "test": "CSA",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10109
   },
   {
     "test": "CYFRA",
     "search": "Cyfra21-1",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10030
   },
   {
     "test": "DHEAS",
     "search": "Dehydroepiandrosterone sulphate (DHEAS)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10068
   },
   {
     "test": "DIGIT ",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10063
   },
   {
     "test": "DIGO ",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10056
   },
   {
     "test": "E2 3",
     "search": "Estradiol",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10100
   },
   {
     "test": "EVL",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10126
   },
   {
     "test": "FBHCG",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10017
   },
   {
     "test": "FERR",
     "search": "Ferritin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10034
   },
   {
     "test": "FOL",
     "search": "Folate",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10168
   },
   {
     "test": "FPSA",
     "search": "Prostate specific antigen (PSA) - free",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10188
   },
   {
     "test": "FSH",
     "search": "Follicle stimulating hormone (FSH)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10207
   },
   {
     "test": "FT3 3",
     "search": "Triiodothyronine - free (FT3)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10220
   },
   {
     "test": "FT4 4",
     "search": "Thyroxine - free (FT4)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10195
   },
   {
     "test": "GDF‑15",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10127
   },
   {
     "test": "HBEAG",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10036
   },
   {
     "test": "HBSAG 2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10049
   },
   {
     "test": "HBSAGQ2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10055
   },
   {
     "test": "HCG-BETA",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10072
   },
   {
     "test": "HCGST",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10203
   },
   {
     "test": "HCT",
     "search": "Calcitonin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10191
   },
   {
     "test": "HE4",
     "search": "Human epididymis protein 4 (HE4)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10102
   },
   {
     "test": "hGH ",
     "search": "Growth hormone releasing hormone (GHRH)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10096
   },
   {
     "test": "HIVDUO",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 12018
   },
   {
     "test": "HSV1",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10098
   },
   {
     "test": "HSV2",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10099
   },
   {
     "test": "HTLV",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10219
   },
   {
     "test": "IGE 2 ",
     "search": "IgE",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10057
   },
   {
     "test": "IGF-1",
     "search": "Insulin-like growth factor-1 (IGF-1)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10116
   },
   {
     "test": "IGFBP-3",
     "search": "Insulin-like growth factor binding protein 3 (IGFBP-3)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10117
   },
   {
     "test": "IL6",
     "search": "Interleukin-6 (IL6)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10085
   },
   {
     "test": "INSULIN",
     "search": "Insulin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10059
   },
   {
     "test": "LH",
     "search": "Luteinising hormone (LH)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10113
   },
   {
     "test": "MYO",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10028
   },
   {
     "test": "MYOST",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10076
   },
   {
     "test": "NSE",
     "search": "Neuron specific enolase",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10073
   },
   {
     "test": "OSTEOC",
     "search": "Osteocalcin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10060
   },
   {
     "test": "PAPPA",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10089
   },
   {
     "test": "PBNPSTX",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10238
   },
   {
     "test": "PBNPX",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10237
   },
   {
     "test": "PCTX",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10241
   },
   {
     "test": "PIVKA",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10157
   },
   {
     "test": "PLGF",
     "search": "Placenta growth factor ratio (PlGF)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10038
   },
   {
     "test": "PRL 2",
     "search": "Prolactin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10111
   },
   {
     "test": "PROG 3",
     "search": "Progesterone",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10045
   },
   {
     "test": "PROGRP",
     "search": "Progastrin-releasing peptide (ProGRP)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10108
   },
   {
     "test": "PTH",
     "search": "Parathyroid hormone",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10204
   },
   {
     "test": "PTH - Plasma",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10204
   },
   {
     "test": "PTH1‑84",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10101
   },
   {
     "test": "PTHST",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10205
   },
   {
     "test": "PTHST - Plasma",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10205
   },
   {
     "test": "RBC‑FOL",
     "search": "Folate red blood cells",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10169
   },
   {
     "test": "RUBIGG",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10024
   },
   {
     "test": "RUBIGM",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10021
   },
   {
     "test": "S100",
     "search": "S100 calcium-binding protein B (S100B)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10118
   },
   {
     "test": "SCC",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10050
   },
   {
     "test": "SFLT1",
     "search": "Soluble fms-like tyrosine kinase 1 (sFlt-1)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10046
   },
   {
     "test": "SHBG",
     "search": "Sexual-hormone-binding-globulin (SHBG)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10071
   },
   {
     "test": "SRL",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10129
   },
   {
     "test": "SYPHILIS",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10212
   },
   {
     "test": "T UP",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10051
   },
   {
     "test": "T3",
     "search": "Total tri-iodothyronine (T3)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10032
   },
   {
     "test": "T4",
     "search": "Thyroxine - total (T4)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10120
   },
   {
     "test": "TCL",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10022
   },
   {
     "test": "TESTO",
     "search": "Testosterone",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10020
   },
   {
     "test": "TG 2",
     "search": "Thyroglobulin",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10215
   },
   {
     "test": "TNI",
     "search": "Troponin I cardiac- contemporary",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10086
   },
   {
     "test": "TNIST",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10054
   },
   {
     "test": "TNTHSSTX",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10240
   },
   {
     "test": "TNTHSX",
     "search": "Troponin T cardiac - high-sensitive (biweekly-monthly sampling)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10239
   },
   {
     "test": "TOXOAV",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 12004
   },
   {
     "test": "TOXOIGG",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10047
   },
   {
     "test": "TOXOIGM",
     "search": "검색어 확인 불가",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10016
   },
   {
     "test": "TPSA",
     "search": "Prostate specific antigen (PSA)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10185
   },
   {
     "test": "TSH",
     "search": "Thyroid stimulating hormone (TSH)",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10172
   },
   {
     "test": "VITDT 3",
     "search": "25-hydroxy vitamin D3",
-    "status": "pending",
-    "progress": 0,
-    "conf": "none"
+    "category": "Immunology",
+    "acn": 10194
+  },
+  {
+    "test": "TP1NP",
+    "search": "Total P1NP",
+    "category": "Immunology",
+    "acn": 10119
   }
 ]
