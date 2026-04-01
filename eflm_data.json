@@ -1,53 +1,53 @@
 {
-  "last_updated": "2026-03-26 15:18:44",
+  "last_updated": "2026-04-01 03:04:49",
   "total": 280,
   "success": 93,
-  "errors": 17,
+  "errors": 18,
   "data": [
     {
       "test": "HbA1c",
-      "search": "Haemoglobin A1c (IFCC)",
+      "search": "Haemoglobin A1c (NGSP)",
+      "category": "Chemistry",
+      "acn": 99999,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
-        "cvi": 1.7,
-        "cvg": 7.2
+        "cvi": 1.2,
+        "cvg": 5.4
       },
       "opt": {
-        "cva": 0.4,
-        "bias": 0.9,
-        "te": 0.9,
-        "mau": 1.6
+        "cva": 0.3,
+        "bias": 0.7,
+        "te": 0.6,
+        "mau": 1.2
       },
       "des": {
-        "cva": 0.9,
-        "bias": 1.8,
-        "te": 1.7,
-        "mau": 3.3
+        "cva": 0.6,
+        "bias": 1.4,
+        "te": 1.2,
+        "mau": 2.4
       },
       "min": {
-        "cva": 1.3,
-        "bias": 2.8,
-        "te": 2.6,
-        "mau": 4.9
+        "cva": 0.9,
+        "bias": 2.1,
+        "te": 1.8,
+        "mau": 3.6
       }
     },
     {
       "test": "AAGP2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20020,
+      "status": "no-term"
     },
     {
       "test": "AAT2",
       "search": "a-1 antitrypsin",
+      "category": "Chemistry",
+      "acn": 20030,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 3.8,
         "cvg": 10.1
@@ -74,24 +74,24 @@
     {
       "test": "ACET2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20040,
+      "status": "no-term"
     },
     {
       "test": "ACP2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20050,
+      "status": "no-term"
     },
     {
       "test": "ALB2-G",
       "search": "Albumin",
+      "category": "Chemistry",
+      "acn": 20090,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 2.5,
         "cvg": 4.3
@@ -118,31 +118,31 @@
     {
       "test": "ALBT2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20060,
+      "status": "no-term"
     },
     {
       "test": "ALBT2C",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20062,
+      "status": "no-term"
     },
     {
       "test": "ALBT2U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20061,
+      "status": "no-term"
     },
     {
       "test": "ALP2",
       "search": "Alkaline phosphatase (ALP), liver type",
+      "category": "Chemistry",
+      "acn": 20110,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 6.0,
         "cvg": 21.0
@@ -169,10 +169,10 @@
     {
       "test": "ALTP2",
       "search": "Alanine transaminase (ALT)",
+      "category": "Chemistry",
+      "acn": 20140,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 12.6,
         "cvg": 30.0
@@ -199,73 +199,73 @@
     {
       "test": "AM1Q2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20163,
+      "status": "no-term"
     },
     {
       "test": "AM1S2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20166,
+      "status": "no-term"
     },
     {
       "test": "AM3Q2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20161,
+      "status": "no-term"
     },
     {
       "test": "AM3S2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20164,
+      "status": "no-term"
     },
     {
       "test": "AM5Q2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20162,
+      "status": "no-term"
     },
     {
       "test": "AM5QC",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20160,
+      "status": "no-term"
     },
     {
       "test": "AM5-QP",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20168,
+      "status": "no-term"
     },
     {
       "test": "AM5S2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20165,
+      "status": "no-term"
     },
     {
       "test": "AMIK2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20150,
+      "status": "no-term"
     },
     {
       "test": "AMYL2",
       "search": "Amylase",
+      "category": "Chemistry",
+      "acn": 20170,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 6.7,
         "cvg": 29.4
@@ -292,17 +292,17 @@
     {
       "test": "AMYL2U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20171,
+      "status": "no-term"
     },
     {
       "test": "AMYP2",
       "search": "Pancreatic Amylase",
+      "category": "Chemistry",
+      "acn": 20180,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 6.7,
         "cvg": 25.7
@@ -329,17 +329,17 @@
     {
       "test": "AMYP2U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20181,
+      "status": "no-term"
     },
     {
       "test": "APOAT",
       "search": "Apolipoprotein A1",
+      "category": "Chemistry",
+      "acn": 20190,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 4.7,
         "cvg": 8.0
@@ -366,10 +366,10 @@
     {
       "test": "APOBT",
       "search": "Apolipoprotein B",
+      "category": "Chemistry",
+      "acn": 20200,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 6.1,
         "cvg": 20.4
@@ -396,17 +396,17 @@
     {
       "test": "ASLOT",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20210,
+      "status": "no-term"
     },
     {
       "test": "ASTP2",
       "search": "Aspartate transaminase (AST)",
+      "category": "Chemistry",
+      "acn": 20230,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 8.6,
         "cvg": 19.6
@@ -433,52 +433,45 @@
     {
       "test": "AT",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20240,
+      "status": "no-term"
     },
     {
       "test": "B2MG",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20250,
+      "status": "no-term"
     },
     {
       "test": "B2MGU",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20251,
+      "status": "no-term"
     },
     {
       "test": "BA2QP",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
-    },
-    {
-      "test": "BA2QP",
-      "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20264,
+      "status": "no-term"
     },
     {
       "test": "BA2SP",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20261,
+      "status": "no-term"
     },
     {
       "test": "BILD2-D",
       "search": "Bilirubin - conjugated (direct)",
+      "category": "Chemistry",
+      "acn": 20300,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 19.5,
         "cvg": 21.9
@@ -505,10 +498,10 @@
     {
       "test": "BILD2-J",
       "search": "Bilirubin - conjugated (direct)",
+      "category": "Chemistry",
+      "acn": 20301,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 19.5,
         "cvg": 21.9
@@ -535,10 +528,10 @@
     {
       "test": "BILT3",
       "search": "Bilirubin",
+      "category": "Chemistry",
+      "acn": 20310,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 20.2,
         "cvg": 24.9
@@ -565,73 +558,73 @@
     {
       "test": "BNZ2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20287,
+      "status": "no-term"
     },
     {
       "test": "BZ1Q2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20280,
+      "status": "no-term"
     },
     {
       "test": "BZ1S2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20284,
+      "status": "no-term"
     },
     {
       "test": "BZ2Q2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20281,
+      "status": "no-term"
     },
     {
       "test": "BZ2S2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20285,
+      "status": "no-term"
     },
     {
       "test": "BZ3Q2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20282,
+      "status": "no-term"
     },
     {
       "test": "BZ3‐QP",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20288,
+      "status": "no-term"
     },
     {
       "test": "BZ3S2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20286,
+      "status": "no-term"
     },
     {
       "test": "BZQ1C",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20283,
+      "status": "no-term"
     },
     {
       "test": "C3C-2",
       "search": "Complement 3 (C3)",
+      "category": "Chemistry",
+      "acn": 20320,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 4.6,
         "cvg": 15.2
@@ -658,10 +651,10 @@
     {
       "test": "C4-2",
       "search": "Complement 4 (C4)",
+      "category": "Chemistry",
+      "acn": 20330,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 6.9,
         "cvg": 24.5
@@ -688,10 +681,10 @@
     {
       "test": "CA2",
       "search": "Calcium (Ca)",
+      "category": "Chemistry",
+      "acn": 20340,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 1.8,
         "cvg": 2.2
@@ -718,24 +711,24 @@
     {
       "test": "CA2U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20341,
+      "status": "no-term"
     },
     {
       "test": "CARB4",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20350,
+      "status": "no-term"
     },
     {
       "test": "CER",
       "search": "Ceruloplasmin",
+      "category": "Chemistry",
+      "acn": 20360,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 5.0,
         "cvg": 15.1
@@ -762,24 +755,24 @@
     {
       "test": "CHE2-D",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20371,
+      "status": "no-term"
     },
     {
       "test": "CHE2-T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20370,
+      "status": "no-term"
     },
     {
       "test": "CHOL2-A",
       "search": "Cholesterol",
+      "category": "Chemistry",
+      "acn": 20410,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 5.4,
         "cvg": 15.8
@@ -806,10 +799,10 @@
     {
       "test": "CHOL2-I",
       "search": "Cholesterol",
+      "category": "Chemistry",
+      "acn": 20411,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 5.4,
         "cvg": 15.8
@@ -836,10 +829,10 @@
     {
       "test": "CK2",
       "search": "Creatine Kinase",
+      "category": "Chemistry",
+      "acn": 20420,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 14.1,
         "cvg": 32.9
@@ -866,38 +859,38 @@
     {
       "test": "CKMB2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20430,
+      "status": "no-term"
     },
     {
       "test": "CO1Q2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20450,
+      "status": "no-term"
     },
     {
       "test": "CO1‑QP",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20456,
+      "status": "no-term"
     },
     {
       "test": "CO1S2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20452,
+      "status": "no-term"
     },
     {
       "test": "CO2-L",
       "search": "Actual bicarbonate",
+      "category": "Chemistry",
+      "acn": 20440,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 4.0,
         "cvg": 4.8
@@ -924,31 +917,31 @@
     {
       "test": "CO3Q2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20451,
+      "status": "no-term"
     },
     {
       "test": "CO3QC",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20454,
+      "status": "no-term"
     },
     {
       "test": "CO3S2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20453,
+      "status": "no-term"
     },
     {
       "test": "CREJ2",
       "search": "Creatinine",
+      "category": "Chemistry",
+      "acn": 20470,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 4.4,
         "cvg": 15.8
@@ -975,17 +968,17 @@
     {
       "test": "CREJ2U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20471,
+      "status": "no-term"
     },
     {
       "test": "CREP2",
       "search": "Creatinine",
+      "category": "Chemistry",
+      "acn": 20460,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 4.4,
         "cvg": 15.8
@@ -1012,17 +1005,17 @@
     {
       "test": "CREP2U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20461,
+      "status": "no-term"
     },
     {
       "test": "CRP4",
       "search": "C-reactive protein (CRP)",
+      "category": "Chemistry",
+      "acn": 20500,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 34.7,
         "cvg": 87.1
@@ -1049,18 +1042,18 @@
     {
       "test": "CRP-HS",
       "search": "C-reactive protein (CRP) - high-sensitive",
+      "category": "Chemistry",
+      "acn": 20480,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "CYSC2",
       "search": "Cystatin C",
+      "category": "Chemistry",
+      "acn": 20510,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 3.3,
         "cvg": 10.8
@@ -1087,46 +1080,46 @@
     {
       "test": "DDI2‑C",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20530,
+      "status": "no-term"
     },
     {
       "test": "DDI2‑H",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20531,
+      "status": "no-term"
     },
     {
       "test": "DIG",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20540,
+      "status": "no-term"
     },
     {
       "test": "ETOH2",
       "search": "Ethanol level",
+      "category": "Chemistry",
+      "acn": 20560,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "ETOH2U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20561,
+      "status": "no-term"
     },
     {
       "test": "FERR4",
       "search": "Ferritin",
+      "category": "Chemistry",
+      "acn": 20570,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 12.9,
         "cvg": 0.0
@@ -1153,10 +1146,10 @@
     {
       "test": "FRA",
       "search": "Fructosamine",
+      "category": "Chemistry",
+      "acn": 20580,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 2.3,
         "cvg": 6.3
@@ -1183,17 +1176,17 @@
     {
       "test": "GENT2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20590,
+      "status": "no-term"
     },
     {
       "test": "GGT2-I",
       "search": "g-glutamyl transferase activity",
+      "category": "Chemistry",
+      "acn": 20600,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 8.3,
         "cvg": 45.1
@@ -1220,10 +1213,10 @@
     {
       "test": "GGT2-S",
       "search": "g-glutamyl transferase activity",
+      "category": "Chemistry",
+      "acn": 20601,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 8.3,
         "cvg": 45.1
@@ -1250,10 +1243,10 @@
     {
       "test": "GLUC3",
       "search": "Glucose",
+      "category": "Chemistry",
+      "acn": 20630,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 4.7,
         "cvg": 8.0
@@ -1280,24 +1273,24 @@
     {
       "test": "GLUC3C",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20632,
+      "status": "no-term"
     },
     {
       "test": "GLUC3U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20631,
+      "status": "no-term"
     },
     {
       "test": "HAPT2",
       "search": "Haptoglobin",
+      "category": "Chemistry",
+      "acn": 20640,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 8.6,
         "cvg": 39.0
@@ -1324,10 +1317,10 @@
     {
       "test": "HCYS",
       "search": "Homocysteine - total (tHcy)",
+      "category": "Chemistry",
+      "acn": 20700,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 6.1,
         "cvg": 27.3
@@ -1354,10 +1347,10 @@
     {
       "test": "HDLC4",
       "search": "HDL cholesterol",
+      "category": "Chemistry",
+      "acn": 20710,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 5.7,
         "cvg": 22.8
@@ -1384,10 +1377,10 @@
     {
       "test": "IGA2",
       "search": "Immunoglobulin A (IgA)",
+      "category": "Chemistry",
+      "acn": 20720,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 7.5,
         "cvg": 32.5
@@ -1414,31 +1407,31 @@
     {
       "test": "IGA2-P",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20721,
+      "status": "no-term"
     },
     {
       "test": "IGA-CR",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20730,
+      "status": "no-term"
     },
     {
       "test": "IGA-SR",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20731,
+      "status": "no-term"
     },
     {
       "test": "IGG2",
       "search": "Immunoglobulin G (IgG)",
+      "category": "Chemistry",
+      "acn": 20740,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 3.5,
         "cvg": 17.1
@@ -1465,24 +1458,24 @@
     {
       "test": "IGG2C",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20741,
+      "status": "no-term"
     },
     {
       "test": "IGG2U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20743,
+      "status": "no-term"
     },
     {
       "test": "IGM2",
       "search": "Immunoglobulin M (IgM)",
+      "category": "Chemistry",
+      "acn": 20750,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 5.9,
         "cvg": 48.5
@@ -1509,31 +1502,31 @@
     {
       "test": "IGM2-P",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20751,
+      "status": "no-term"
     },
     {
       "test": "IGM-CR",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20760,
+      "status": "no-term"
     },
     {
       "test": "IGM-SR",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20761,
+      "status": "no-term"
     },
     {
       "test": "IRON2",
       "search": "Iron",
+      "category": "Chemistry",
+      "acn": 20770,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 25.2,
         "cvg": 28.0
@@ -1560,10 +1553,10 @@
     {
       "test": "ISE CL",
       "search": "Chloride",
+      "category": "Chemistry",
+      "acn": 29090,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 1.0,
         "cvg": 1.3
@@ -1590,24 +1583,24 @@
     {
       "test": "ISE CL-P",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 29092,
+      "status": "no-term"
     },
     {
       "test": "ISE CL-U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 29091,
+      "status": "no-term"
     },
     {
       "test": "ISE K",
       "search": "Potassium",
+      "category": "Chemistry",
+      "acn": 29080,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 3.9,
         "cvg": 5.5
@@ -1634,68 +1627,68 @@
     {
       "test": "ISE K-P",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 29082,
+      "status": "no-term"
     },
     {
       "test": "ISE K-U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 29081,
+      "status": "no-term"
     },
     {
       "test": "ISE Na",
       "search": "Sodium",
+      "category": "Chemistry",
+      "acn": 29070,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
-        "cvi": 0.6,
-        "cvg": 0.7
+        "cvi": 0.5,
+        "cvg": 0.8
       },
       "opt": {
-        "cva": 0.2,
+        "cva": 0.1,
         "bias": 0.1,
         "te": 0.3,
-        "mau": 0.4
+        "mau": 0.3
       },
       "des": {
         "cva": 0.3,
         "bias": 0.2,
-        "te": 0.6,
-        "mau": 0.7
+        "te": 0.5,
+        "mau": 0.6
       },
       "min": {
-        "cva": 0.5,
-        "bias": 0.3,
-        "te": 0.9,
-        "mau": 1.1
+        "cva": 0.4,
+        "bias": 0.4,
+        "te": 0.8,
+        "mau": 1.0
       }
     },
     {
       "test": "ISE Na-P",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 29072,
+      "status": "no-term"
     },
     {
       "test": "ISE Na-U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 29071,
+      "status": "no-term"
     },
     {
       "test": "KAPP2",
       "search": "Free kappa light chain",
+      "category": "Chemistry",
+      "acn": 20780,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 5.9,
         "cvg": 14.6
@@ -1722,10 +1715,10 @@
     {
       "test": "LACT2C",
       "search": "Lactate",
+      "category": "Chemistry",
+      "acn": 20790,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 4.4,
         "cvg": 11.8
@@ -1752,10 +1745,10 @@
     {
       "test": "LACT2P",
       "search": "Lactate",
+      "category": "Chemistry",
+      "acn": 20791,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 4.4,
         "cvg": 11.8
@@ -1782,10 +1775,10 @@
     {
       "test": "LAMB2",
       "search": "Free lambda light chain",
+      "category": "Chemistry",
+      "acn": 20800,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 5.6,
         "cvg": 21.9
@@ -1812,10 +1805,10 @@
     {
       "test": "LDHI2",
       "search": "Lactate dehydrogenase (LDH) activity",
+      "category": "Chemistry",
+      "acn": 20810,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 4.4,
         "cvg": 11.8
@@ -1842,17 +1835,17 @@
     {
       "test": "LDHI2P",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20811,
+      "status": "no-term"
     },
     {
       "test": "LDLC3",
       "search": "LDL Cholesterol",
+      "category": "Chemistry",
+      "acn": 20820,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 7.4,
         "cvg": 24.3
@@ -1879,18 +1872,18 @@
     {
       "test": "LI",
       "search": "Lithium level",
+      "category": "Chemistry",
+      "acn": 20840,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "LIP",
       "search": "Lipase",
+      "category": "Chemistry",
+      "acn": 20850,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 7.6,
         "cvg": 24.0
@@ -1917,10 +1910,10 @@
     {
       "test": "LPA2",
       "search": "Lipoprotein (a)",
+      "category": "Chemistry",
+      "acn": 20860,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 10.2,
         "cvg": 85.8
@@ -1947,10 +1940,10 @@
     {
       "test": "MG2",
       "search": "Magnesium",
+      "category": "Chemistry",
+      "acn": 20890,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 2.7,
         "cvg": 5.9
@@ -1977,115 +1970,115 @@
     {
       "test": "MG2U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20891,
+      "status": "no-term"
     },
     {
       "test": "MPA",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20900,
+      "status": "no-term"
     },
     {
       "test": "NH3L2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20940,
+      "status": "no-term"
     },
     {
       "test": "NPP2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20051,
+      "status": "no-term"
     },
     {
       "test": "OP2Q2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20950,
+      "status": "no-term"
     },
     {
       "test": "OP2S2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20951,
+      "status": "no-term"
     },
     {
       "test": "OP3Q2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20952,
+      "status": "no-term"
     },
     {
       "test": "OP3QC",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20954,
+      "status": "no-term"
     },
     {
       "test": "OP3S2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20953,
+      "status": "no-term"
     },
     {
       "test": "PC2QC",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20962,
+      "status": "no-term"
     },
     {
       "test": "PC2QP",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20960,
+      "status": "no-term"
     },
     {
       "test": "PC2‑QP",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20963,
+      "status": "no-term"
     },
     {
       "test": "PC2SP",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20961,
+      "status": "no-term"
     },
     {
       "test": "PHNO2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20970,
+      "status": "no-term"
     },
     {
       "test": "PHNY2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20980,
+      "status": "no-term"
     },
     {
       "test": "PHOS2",
       "search": "Phosphate",
+      "category": "Chemistry",
+      "acn": 20990,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 7.7,
         "cvg": 10.7
@@ -2112,171 +2105,171 @@
     {
       "test": "PHOS2U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 20991,
+      "status": "no-term"
     },
     {
       "test": "PREA",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21010,
+      "status": "no-term"
     },
     {
       "test": "RF-II",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21040,
+      "status": "no-term"
     },
     {
       "test": "SALI",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21050,
+      "status": "no-term"
     },
     {
       "test": "STFR",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21080,
+      "status": "no-term"
     },
     {
       "test": "TH1Q2 - 150T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21072,
+      "status": "no-term"
     },
     {
       "test": "TH1Q2 - 850T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21072,
+      "status": "no-term"
     },
     {
       "test": "TH1S2 - 150T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21075,
+      "status": "no-term"
     },
     {
       "test": "TH1S2 - 850T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21075,
+      "status": "no-term"
     },
     {
       "test": "TH2Q2 - 150T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21070,
+      "status": "no-term"
     },
     {
       "test": "TH2Q2 - 850T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21070,
+      "status": "no-term"
     },
     {
       "test": "TH2S2 - 150T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21073,
+      "status": "no-term"
     },
     {
       "test": "TH2S2 - 850T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21073,
+      "status": "no-term"
     },
     {
       "test": "TH5Q2 - 150T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21071,
+      "status": "no-term"
     },
     {
       "test": "TH5Q2 - 850T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21071,
+      "status": "no-term"
     },
     {
       "test": "TH5QC - 150T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21076,
+      "status": "no-term"
     },
     {
       "test": "TH5QC - 850T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21076,
+      "status": "no-term"
     },
     {
       "test": "TH5‑QP - 150T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21078,
+      "status": "no-term"
     },
     {
       "test": "TH5‑QP - 850T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21078,
+      "status": "no-term"
     },
     {
       "test": "TH5S2 - 150T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21074,
+      "status": "no-term"
     },
     {
       "test": "TH5S2 - 850T",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21074,
+      "status": "no-term"
     },
     {
       "test": "THEO2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21090,
+      "status": "no-term"
     },
     {
       "test": "TOBR2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21100,
+      "status": "no-term"
     },
     {
       "test": "TP2",
       "search": "Protein (total)",
+      "category": "Chemistry",
+      "acn": 21110,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 6.9,
         "cvg": 12.7
@@ -2303,24 +2296,24 @@
     {
       "test": "TPC3",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21123,
+      "status": "no-term"
     },
     {
       "test": "TPU3",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21122,
+      "status": "no-term"
     },
     {
       "test": "TRIGL",
       "search": "Triglycerides",
+      "category": "Chemistry",
+      "acn": 21130,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 19.8,
         "cvg": 35.3
@@ -2347,10 +2340,10 @@
     {
       "test": "TRSF2",
       "search": "Transferrin",
+      "category": "Chemistry",
+      "acn": 21150,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 6.9,
         "cvg": 19.1
@@ -2377,10 +2370,10 @@
     {
       "test": "UA2",
       "search": "Urate",
+      "category": "Chemistry",
+      "acn": 21170,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 8.3,
         "cvg": 20.9
@@ -2407,17 +2400,17 @@
     {
       "test": "UA2U",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21171,
+      "status": "no-term"
     },
     {
       "test": "U-BUN",
       "search": "Urea",
+      "category": "Chemistry",
+      "acn": 21192,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 13.1,
         "cvg": 20.3
@@ -2444,73 +2437,73 @@
     {
       "test": "UBUNU",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21193,
+      "status": "no-term"
     },
     {
       "test": "UIBC-I",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21180,
+      "status": "no-term"
     },
     {
       "test": "VALP2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21200,
+      "status": "no-term"
     },
     {
       "test": "VANC3O",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Chemistry",
+      "acn": 21210,
+      "status": "no-term"
     },
     {
       "test": "ACCP",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10084,
+      "status": "no-term"
     },
     {
       "test": "ACOV2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10226,
+      "status": "no-term"
     },
     {
       "test": "ACOV2S",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10230,
+      "status": "no-term"
     },
     {
       "test": "ACTB12",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10152,
+      "status": "no-term"
     },
     {
       "test": "ACTH",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10206,
+      "status": "no-term"
     },
     {
       "test": "AFP",
       "search": "Alphafetoprotein",
+      "category": "Immunology",
+      "acn": 10209,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 4.6,
         "cvg": 55.2
@@ -2537,59 +2530,59 @@
     {
       "test": "AHAV 2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10156,
+      "status": "no-term"
     },
     {
       "test": "AHAVIGM",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10162,
+      "status": "no-term"
     },
     {
       "test": "AHBC 2 ",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10142,
+      "status": "no-term"
     },
     {
       "test": "AHBCIGM",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10040,
+      "status": "no-term"
     },
     {
       "test": "AHBE",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10033,
+      "status": "no-term"
     },
     {
       "test": "A‑HBS 2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10179,
+      "status": "no-term"
     },
     {
       "test": "AHCV 2 ",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10189,
+      "status": "no-term"
     },
     {
       "test": "AMHP",
       "search": "Antimullerian hormone",
+      "category": "Immunology",
+      "acn": 10158,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 19.2,
         "cvg": 20.4
@@ -2616,33 +2609,33 @@
     {
       "test": "ATG",
       "search": "Thyroglobulin antibody",
+      "category": "Immunology",
+      "acn": 10202,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "ATPO",
       "search": "Thyroid peroxidase antibody (TPO)",
+      "category": "Immunology",
+      "acn": 10066,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "ATSHR",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10174,
+      "status": "no-term"
     },
     {
       "test": "B12 2",
       "search": "Cobalamin",
+      "category": "Immunology",
+      "acn": 10088,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 7.2,
         "cvg": 37.0
@@ -2669,18 +2662,18 @@
     {
       "test": "CA 15-3 2",
       "search": "Cancer antigen 15-3 (CA 15.3)",
+      "category": "Immunology",
+      "acn": 10002,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "CA 19-9",
       "search": "Cancer antigen 19-9 (CA 19-9)",
+      "category": "Immunology",
+      "acn": 10019,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 4.3,
         "cvg": 57.4
@@ -2707,10 +2700,10 @@
     {
       "test": "CA 72-4",
       "search": "Cancer antigen 72-4 (CA 72-4)",
+      "category": "Immunology",
+      "acn": 10225,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 50.3,
         "cvg": 103.4
@@ -2737,10 +2730,10 @@
     {
       "test": "CA125 2",
       "search": "Cancer antigen 125 (CA-125)",
+      "category": "Immunology",
+      "acn": 10018,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 8.7,
         "cvg": 25.5
@@ -2767,10 +2760,10 @@
     {
       "test": "CEA",
       "search": "Carcinoembryonic antigen (CEA)",
+      "category": "Immunology",
+      "acn": 10003,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 6.8,
         "cvg": 59.3
@@ -2797,98 +2790,98 @@
     {
       "test": "CKMB",
       "search": "CK-MB isoenzyme activity",
+      "category": "Immunology",
+      "acn": 10041,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "CKMBST",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10058,
+      "status": "no-term"
     },
     {
       "test": "CMVAVI",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 11151,
+      "status": "no-term"
     },
     {
       "test": "CMVIGG",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10218,
+      "status": "no-term"
     },
     {
       "test": "CMVIGM",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10218,
+      "status": "no-term"
     },
     {
       "test": "CORT 2",
       "search": "Cortisol",
+      "category": "Immunology",
+      "acn": 10042,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
-        "cvi": 16.1,
-        "cvg": 30.1
+        "cvi": 16.2,
+        "cvg": 21.5
       },
       "opt": {
-        "cva": 4.0,
-        "bias": 4.3,
+        "cva": 4.1,
+        "bias": 3.4,
         "te": 8.1,
-        "mau": 10.9
+        "mau": 10.0
       },
       "des": {
         "cva": 8.1,
-        "bias": 8.5,
-        "te": 16.1,
-        "mau": 21.8
+        "bias": 6.7,
+        "te": 16.2,
+        "mau": 20.1
       },
       "min": {
         "cva": 12.1,
-        "bias": 12.8,
-        "te": 24.2,
-        "mau": 32.7
+        "bias": 10.1,
+        "te": 24.3,
+        "mau": 30.1
       }
     },
     {
       "test": "CORT 2 - Saliva",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10042,
+      "status": "no-term"
     },
     {
       "test": "CPEPTID",
       "search": "Proinsulin C-peptide",
+      "category": "Immunology",
+      "acn": 10081,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "CPEPTID - Urine",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10081,
+      "status": "no-term"
     },
     {
       "test": "CROSSL",
       "search": "C-terminal cross-linked telopeptide of type I collagen (CTX)",
+      "category": "Immunology",
+      "acn": 10062,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 14.5,
         "cvg": 44.4
@@ -2915,25 +2908,25 @@
     {
       "test": "CSA",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10109,
+      "status": "no-term"
     },
     {
       "test": "CYFRA",
       "search": "Cyfra21-1",
+      "category": "Immunology",
+      "acn": 10030,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "DHEAS",
       "search": "Dehydroepiandrosterone sulphate (DHEAS)",
+      "category": "Immunology",
+      "acn": 10068,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 20.0,
         "cvg": 49.0
@@ -2960,24 +2953,24 @@
     {
       "test": "DIGIT ",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10063,
+      "status": "no-term"
     },
     {
       "test": "DIGO ",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10056,
+      "status": "no-term"
     },
     {
       "test": "E2 3",
       "search": "Estradiol",
+      "category": "Immunology",
+      "acn": 10100,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 15.0,
         "cvg": 18.1
@@ -3004,24 +2997,24 @@
     {
       "test": "EVL",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10126,
+      "status": "no-term"
     },
     {
       "test": "FBHCG",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10017,
+      "status": "no-term"
     },
     {
       "test": "FERR",
       "search": "Ferritin",
+      "category": "Immunology",
+      "acn": 10034,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 12.9,
         "cvg": 0.0
@@ -3048,10 +3041,10 @@
     {
       "test": "FOL",
       "search": "Folate",
+      "category": "Immunology",
+      "acn": 10168,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 11.2,
         "cvg": 26.5
@@ -3078,10 +3071,10 @@
     {
       "test": "FPSA",
       "search": "Prostate specific antigen (PSA) - free",
+      "category": "Immunology",
+      "acn": 10188,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 7.1,
         "cvg": 46.2
@@ -3108,10 +3101,10 @@
     {
       "test": "FSH",
       "search": "Follicle stimulating hormone (FSH)",
+      "category": "Immunology",
+      "acn": 10207,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 9.5,
         "cvg": 37.9
@@ -3138,10 +3131,10 @@
     {
       "test": "FT3 3",
       "search": "Triiodothyronine - free (FT3)",
+      "category": "Immunology",
+      "acn": 10220,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 5.1,
         "cvg": 8.1
@@ -3168,10 +3161,10 @@
     {
       "test": "FT4 4",
       "search": "Thyroxine - free (FT4)",
+      "category": "Immunology",
+      "acn": 10195,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 4.8,
         "cvg": 8.0
@@ -3198,52 +3191,52 @@
     {
       "test": "GDF‑15",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10127,
+      "status": "no-term"
     },
     {
       "test": "HBEAG",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10036,
+      "status": "no-term"
     },
     {
       "test": "HBSAG 2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10049,
+      "status": "no-term"
     },
     {
       "test": "HBSAGQ2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10055,
+      "status": "no-term"
     },
     {
       "test": "HCG-BETA",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10072,
+      "status": "no-term"
     },
     {
       "test": "HCGST",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10203,
+      "status": "no-term"
     },
     {
       "test": "HCT",
       "search": "Calcitonin",
+      "category": "Immunology",
+      "acn": 10191,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 13.0,
         "cvg": 65.8
@@ -3270,10 +3263,10 @@
     {
       "test": "HE4",
       "search": "Human epididymis protein 4 (HE4)",
+      "category": "Immunology",
+      "acn": 10102,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 7.1,
         "cvg": 17.9
@@ -3300,54 +3293,54 @@
     {
       "test": "hGH ",
       "search": "Growth hormone releasing hormone (GHRH)",
+      "category": "Immunology",
+      "acn": 10096,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "HIVDUO",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 12018,
+      "status": "no-term"
     },
     {
       "test": "HSV1",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10098,
+      "status": "no-term"
     },
     {
       "test": "HSV2",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10099,
+      "status": "no-term"
     },
     {
       "test": "HTLV",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10219,
+      "status": "no-term"
     },
     {
       "test": "IGE 2 ",
       "search": "IgE",
+      "category": "Immunology",
+      "acn": 10057,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "IGF-1",
       "search": "Insulin-like growth factor-1 (IGF-1)",
+      "category": "Immunology",
+      "acn": 10116,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 9.4,
         "cvg": 27.0
@@ -3374,18 +3367,18 @@
     {
       "test": "IGFBP-3",
       "search": "Insulin-like growth factor binding protein 3 (IGFBP-3)",
+      "category": "Immunology",
+      "acn": 10117,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "IL6",
       "search": "Interleukin-6 (IL6)",
+      "category": "Immunology",
+      "acn": 10085,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 31.9,
         "cvg": 39.2
@@ -3412,10 +3405,10 @@
     {
       "test": "INSULIN",
       "search": "Insulin",
+      "category": "Immunology",
+      "acn": 10059,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 25.4,
         "cvg": 33.5
@@ -3442,10 +3435,10 @@
     {
       "test": "LH",
       "search": "Luteinising hormone (LH)",
+      "category": "Immunology",
+      "acn": 10113,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 25.2,
         "cvg": 21.4
@@ -3472,24 +3465,24 @@
     {
       "test": "MYO",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10028,
+      "status": "no-term"
     },
     {
       "test": "MYOST",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10076,
+      "status": "no-term"
     },
     {
       "test": "NSE",
       "search": "Neuron specific enolase",
+      "category": "Immunology",
+      "acn": 10073,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 10.9,
         "cvg": 16.6
@@ -3516,10 +3509,10 @@
     {
       "test": "OSTEOC",
       "search": "Osteocalcin",
+      "category": "Immunology",
+      "acn": 10060,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 8.7,
         "cvg": 32.0
@@ -3546,53 +3539,53 @@
     {
       "test": "PAPPA",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10089,
+      "status": "no-term"
     },
     {
       "test": "PBNPSTX",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10238,
+      "status": "no-term"
     },
     {
       "test": "PBNPX",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10237,
+      "status": "no-term"
     },
     {
       "test": "PCTX",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10241,
+      "status": "no-term"
     },
     {
       "test": "PIVKA",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10157,
+      "status": "no-term"
     },
     {
       "test": "PLGF",
       "search": "Placenta growth factor ratio (PlGF)",
+      "category": "Immunology",
+      "acn": 10038,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "PRL 2",
       "search": "Prolactin",
+      "category": "Immunology",
+      "acn": 10111,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 45.0,
         "cvg": 64.3
@@ -3619,10 +3612,10 @@
     {
       "test": "PROG 3",
       "search": "Progesterone",
+      "category": "Immunology",
+      "acn": 10045,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 18.5,
         "cvg": 39.7
@@ -3649,18 +3642,18 @@
     {
       "test": "PROGRP",
       "search": "Progastrin-releasing peptide (ProGRP)",
+      "category": "Immunology",
+      "acn": 10108,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "PTH",
       "search": "Parathyroid hormone",
+      "category": "Immunology",
+      "acn": 10204,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 14.7,
         "cvg": 28.9
@@ -3687,60 +3680,60 @@
     {
       "test": "PTH - Plasma",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10204,
+      "status": "no-term"
     },
     {
       "test": "PTH1‑84",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10101,
+      "status": "no-term"
     },
     {
       "test": "PTHST",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10205,
+      "status": "no-term"
     },
     {
       "test": "PTHST - Plasma",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10205,
+      "status": "no-term"
     },
     {
       "test": "RBC‑FOL",
       "search": "Folate red blood cells",
+      "category": "Immunology",
+      "acn": 10169,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "RUBIGG",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10024,
+      "status": "no-term"
     },
     {
       "test": "RUBIGM",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10021,
+      "status": "no-term"
     },
     {
       "test": "S100",
       "search": "S100 calcium-binding protein B (S100B)",
+      "category": "Immunology",
+      "acn": 10118,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 10.2,
         "cvg": 32.7
@@ -3767,76 +3760,76 @@
     {
       "test": "SCC",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10050,
+      "status": "no-term"
     },
     {
       "test": "SFLT1",
       "search": "Soluble fms-like tyrosine kinase 1 (sFlt-1)",
+      "category": "Immunology",
+      "acn": 10046,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "SHBG",
       "search": "Sexual-hormone-binding-globulin (SHBG)",
+      "category": "Immunology",
+      "acn": 10071,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
-        "cvi": 7.5,
-        "cvg": 44.6
+        "cvi": 8.3,
+        "cvg": 44.1
       },
       "opt": {
-        "cva": 1.9,
-        "bias": 5.7,
-        "te": 3.8,
-        "mau": 8.7
+        "cva": 2.1,
+        "bias": 5.6,
+        "te": 4.2,
+        "mau": 9.0
       },
       "des": {
-        "cva": 3.8,
-        "bias": 11.3,
-        "te": 7.5,
-        "mau": 17.5
+        "cva": 4.2,
+        "bias": 11.2,
+        "te": 8.3,
+        "mau": 18.1
       },
       "min": {
-        "cva": 5.6,
-        "bias": 17.0,
-        "te": 11.3,
-        "mau": 26.2
+        "cva": 6.2,
+        "bias": 16.8,
+        "te": 12.5,
+        "mau": 27.1
       }
     },
     {
       "test": "SRL",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10129,
+      "status": "no-term"
     },
     {
       "test": "SYPHILIS",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10212,
+      "status": "no-term"
     },
     {
       "test": "T UP",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10051,
+      "status": "no-term"
     },
     {
       "test": "T3",
       "search": "Total tri-iodothyronine (T3)",
+      "category": "Immunology",
+      "acn": 10032,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 6.3,
         "cvg": 12.4
@@ -3863,10 +3856,10 @@
     {
       "test": "T4",
       "search": "Thyroxine - total (T4)",
+      "category": "Immunology",
+      "acn": 10120,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 6.2,
         "cvg": 11.9
@@ -3893,17 +3886,17 @@
     {
       "test": "TCL",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10022,
+      "status": "no-term"
     },
     {
       "test": "TESTO",
       "search": "Testosterone",
+      "category": "Immunology",
+      "acn": 10020,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 15.0,
         "cvg": 27.9
@@ -3930,10 +3923,10 @@
     {
       "test": "TG 2",
       "search": "Thyroglobulin",
+      "category": "Immunology",
+      "acn": 10215,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 10.8,
         "cvg": 79.3
@@ -3960,32 +3953,32 @@
     {
       "test": "TNI",
       "search": "Troponin I cardiac- contemporary",
+      "category": "Immunology",
+      "acn": 10086,
       "status": "error",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26"
+      "lastUpdate": "2026-04-01"
     },
     {
       "test": "TNIST",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10054,
+      "status": "no-term"
     },
     {
       "test": "TNTHSSTX",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10240,
+      "status": "no-term"
     },
     {
       "test": "TNTHSX",
       "search": "Troponin T cardiac - high-sensitive (biweekly-monthly sampling)",
+      "category": "Immunology",
+      "acn": 10239,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 11.1,
         "cvg": 34.4
@@ -4012,31 +4005,31 @@
     {
       "test": "TOXOAV",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 12004,
+      "status": "no-term"
     },
     {
       "test": "TOXOIGG",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10047,
+      "status": "no-term"
     },
     {
       "test": "TOXOIGM",
       "search": "검색어 확인 불가",
-      "status": "no-term",
-      "progress": 0,
-      "conf": "none"
+      "category": "Immunology",
+      "acn": 10016,
+      "status": "no-term"
     },
     {
       "test": "TPSA",
       "search": "Prostate specific antigen (PSA)",
+      "category": "Immunology",
+      "acn": 10185,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 6.8,
         "cvg": 42.0
@@ -4063,10 +4056,10 @@
     {
       "test": "TSH",
       "search": "Thyroid stimulating hormone (TSH)",
+      "category": "Immunology",
+      "acn": 10172,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 17.8,
         "cvg": 36.0
@@ -4093,10 +4086,10 @@
     {
       "test": "VITDT 3",
       "search": "25-hydroxy vitamin D3",
+      "category": "Immunology",
+      "acn": 10194,
       "status": "done",
-      "progress": 0,
-      "conf": "none",
-      "lastUpdate": "2026-03-26",
+      "lastUpdate": "2026-04-01",
       "est": {
         "cvi": 6.8,
         "cvg": 30.1
@@ -4119,6 +4112,14 @@
         "te": 10.2,
         "mau": 20.0
       }
+    },
+    {
+      "test": "TP1NP",
+      "search": "Total P1NP",
+      "category": "Immunology",
+      "acn": 10119,
+      "status": "error",
+      "lastUpdate": "2026-04-01"
     }
   ]
 }
