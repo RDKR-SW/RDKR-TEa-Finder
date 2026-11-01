@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-01 05:00:26",
+  "last_updated": "2026-11-01 05:11:53",
   "total": 280,
-  "success": 92,
-  "errors": 19,
+  "success": 90,
+  "errors": 21,
   "data": [
     {
       "test": "HbA1c",
@@ -10,7 +10,7 @@
       "category": "Chemistry",
       "acn": 99999,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 1.2,
         "cvg": 5.4
@@ -47,7 +47,7 @@
       "category": "Chemistry",
       "acn": 20030,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 3.8,
         "cvg": 10.1
@@ -91,16 +91,16 @@
       "category": "Chemistry",
       "acn": 20090,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 2.5,
-        "cvg": 4.3
+        "cvg": 4.1
       },
       "opt": {
         "cva": 0.6,
         "bias": 0.6,
         "te": 1.3,
-        "mau": 1.7
+        "mau": 1.6
       },
       "des": {
         "cva": 1.3,
@@ -110,9 +110,9 @@
       },
       "min": {
         "cva": 1.9,
-        "bias": 1.9,
+        "bias": 1.8,
         "te": 3.8,
-        "mau": 5.0
+        "mau": 4.9
       }
     },
     {
@@ -142,7 +142,7 @@
       "category": "Chemistry",
       "acn": 20110,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 6.0,
         "cvg": 21.0
@@ -172,28 +172,28 @@
       "category": "Chemistry",
       "acn": 20140,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 12.6,
-        "cvg": 30.0
+        "cvi": 12.4,
+        "cvg": 29.8
       },
       "opt": {
-        "cva": 3.2,
-        "bias": 4.1,
-        "te": 6.3,
-        "mau": 9.3
+        "cva": 3.1,
+        "bias": 4.0,
+        "te": 6.2,
+        "mau": 9.1
       },
       "des": {
-        "cva": 6.3,
+        "cva": 6.2,
         "bias": 8.1,
-        "te": 12.6,
-        "mau": 18.5
+        "te": 12.4,
+        "mau": 18.3
       },
       "min": {
-        "cva": 9.5,
-        "bias": 12.2,
-        "te": 18.9,
-        "mau": 27.8
+        "cva": 9.3,
+        "bias": 12.1,
+        "te": 18.6,
+        "mau": 27.4
       }
     },
     {
@@ -265,7 +265,7 @@
       "category": "Chemistry",
       "acn": 20170,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 6.8,
         "cvg": 24.8
@@ -302,7 +302,7 @@
       "category": "Chemistry",
       "acn": 20180,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 6.7,
         "cvg": 25.7
@@ -339,7 +339,7 @@
       "category": "Chemistry",
       "acn": 20190,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 4.7,
         "cvg": 8.0
@@ -369,28 +369,28 @@
       "category": "Chemistry",
       "acn": 20200,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 6.2,
+        "cvi": 6.3,
         "cvg": 20.4
       },
       "opt": {
         "cva": 1.6,
         "bias": 2.7,
-        "te": 3.1,
-        "mau": 5.2
+        "te": 3.2,
+        "mau": 5.3
       },
       "des": {
-        "cva": 3.1,
+        "cva": 3.2,
         "bias": 5.3,
-        "te": 6.2,
-        "mau": 10.4
+        "te": 6.3,
+        "mau": 10.5
       },
       "min": {
         "cva": 4.7,
         "bias": 8.0,
-        "te": 9.3,
-        "mau": 15.7
+        "te": 9.5,
+        "mau": 15.8
       }
     },
     {
@@ -406,28 +406,28 @@
       "category": "Chemistry",
       "acn": 20230,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 8.6,
-        "cvg": 19.6
+        "cvi": 8.4,
+        "cvg": 19.4
       },
       "opt": {
-        "cva": 2.2,
-        "bias": 2.7,
-        "te": 4.3,
-        "mau": 6.2
+        "cva": 2.1,
+        "bias": 2.6,
+        "te": 4.2,
+        "mau": 6.1
       },
       "des": {
-        "cva": 4.3,
-        "bias": 5.4,
-        "te": 8.6,
-        "mau": 12.4
+        "cva": 4.2,
+        "bias": 5.3,
+        "te": 8.4,
+        "mau": 12.2
       },
       "min": {
-        "cva": 6.5,
-        "bias": 8.0,
-        "te": 12.9,
-        "mau": 18.7
+        "cva": 6.3,
+        "bias": 7.9,
+        "te": 12.6,
+        "mau": 18.3
       }
     },
     {
@@ -471,7 +471,7 @@
       "category": "Chemistry",
       "acn": 20300,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 19.5,
         "cvg": 21.9
@@ -501,7 +501,7 @@
       "category": "Chemistry",
       "acn": 20301,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 19.5,
         "cvg": 21.9
@@ -531,10 +531,10 @@
       "category": "Chemistry",
       "acn": 20310,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 20.2,
-        "cvg": 24.9
+        "cvg": 24.6
       },
       "opt": {
         "cva": 5.1,
@@ -546,13 +546,13 @@
         "cva": 10.1,
         "bias": 8.0,
         "te": 20.2,
-        "mau": 24.7
+        "mau": 24.6
       },
       "min": {
         "cva": 15.2,
-        "bias": 12.0,
+        "bias": 11.9,
         "te": 30.3,
-        "mau": 37.0
+        "mau": 36.9
       }
     },
     {
@@ -624,7 +624,7 @@
       "category": "Chemistry",
       "acn": 20320,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 4.6,
         "cvg": 15.2
@@ -654,7 +654,7 @@
       "category": "Chemistry",
       "acn": 20330,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 6.9,
         "cvg": 24.5
@@ -684,10 +684,10 @@
       "category": "Chemistry",
       "acn": 20340,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 1.8,
-        "cvg": 2.2
+        "cvg": 2.7
       },
       "opt": {
         "cva": 0.5,
@@ -697,15 +697,15 @@
       },
       "des": {
         "cva": 0.9,
-        "bias": 0.7,
+        "bias": 0.8,
         "te": 1.8,
-        "mau": 2.2
+        "mau": 2.3
       },
       "min": {
         "cva": 1.4,
-        "bias": 1.1,
+        "bias": 1.2,
         "te": 2.7,
-        "mau": 3.3
+        "mau": 3.4
       }
     },
     {
@@ -728,7 +728,7 @@
       "category": "Chemistry",
       "acn": 20360,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 5.0,
         "cvg": 15.1
@@ -772,28 +772,28 @@
       "category": "Chemistry",
       "acn": 20410,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 5.3,
-        "cvg": 15.5
+        "cvi": 5.4,
+        "cvg": 16.0
       },
       "opt": {
-        "cva": 1.3,
-        "bias": 2.0,
+        "cva": 1.4,
+        "bias": 2.1,
         "te": 2.7,
-        "mau": 4.2
+        "mau": 4.3
       },
       "des": {
         "cva": 2.7,
-        "bias": 4.1,
-        "te": 5.3,
-        "mau": 8.5
+        "bias": 4.2,
+        "te": 5.4,
+        "mau": 8.7
       },
       "min": {
-        "cva": 4.0,
-        "bias": 6.1,
-        "te": 8.0,
-        "mau": 12.7
+        "cva": 4.1,
+        "bias": 6.3,
+        "te": 8.1,
+        "mau": 13.0
       }
     },
     {
@@ -802,28 +802,28 @@
       "category": "Chemistry",
       "acn": 20411,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 5.3,
-        "cvg": 15.5
+        "cvi": 5.4,
+        "cvg": 16.0
       },
       "opt": {
-        "cva": 1.3,
-        "bias": 2.0,
+        "cva": 1.4,
+        "bias": 2.1,
         "te": 2.7,
-        "mau": 4.2
+        "mau": 4.3
       },
       "des": {
         "cva": 2.7,
-        "bias": 4.1,
-        "te": 5.3,
-        "mau": 8.5
+        "bias": 4.2,
+        "te": 5.4,
+        "mau": 8.7
       },
       "min": {
-        "cva": 4.0,
-        "bias": 6.1,
-        "te": 8.0,
-        "mau": 12.7
+        "cva": 4.1,
+        "bias": 6.3,
+        "te": 8.1,
+        "mau": 13.0
       }
     },
     {
@@ -832,7 +832,7 @@
       "category": "Chemistry",
       "acn": 20420,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 14.1,
         "cvg": 32.9
@@ -890,7 +890,7 @@
       "category": "Chemistry",
       "acn": 20440,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 4.0,
         "cvg": 4.8
@@ -941,10 +941,10 @@
       "category": "Chemistry",
       "acn": 20470,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 4.4,
-        "cvg": 15.8
+        "cvg": 16.1
       },
       "opt": {
         "cva": 1.1,
@@ -954,15 +954,15 @@
       },
       "des": {
         "cva": 2.2,
-        "bias": 4.1,
+        "bias": 4.2,
         "te": 4.4,
-        "mau": 7.7
+        "mau": 7.8
       },
       "min": {
         "cva": 3.3,
-        "bias": 6.2,
+        "bias": 6.3,
         "te": 6.6,
-        "mau": 11.6
+        "mau": 11.7
       }
     },
     {
@@ -978,10 +978,10 @@
       "category": "Chemistry",
       "acn": 20460,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 4.4,
-        "cvg": 15.8
+        "cvg": 16.1
       },
       "opt": {
         "cva": 1.1,
@@ -991,15 +991,15 @@
       },
       "des": {
         "cva": 2.2,
-        "bias": 4.1,
+        "bias": 4.2,
         "te": 4.4,
-        "mau": 7.7
+        "mau": 7.8
       },
       "min": {
         "cva": 3.3,
-        "bias": 6.2,
+        "bias": 6.3,
         "te": 6.6,
-        "mau": 11.6
+        "mau": 11.7
       }
     },
     {
@@ -1015,7 +1015,7 @@
       "category": "Chemistry",
       "acn": 20500,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 34.7,
         "cvg": 87.1
@@ -1045,7 +1045,7 @@
       "category": "Chemistry",
       "acn": 20480,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "CYSC2",
@@ -1053,7 +1053,7 @@
       "category": "Chemistry",
       "acn": 20510,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 3.3,
         "cvg": 10.8
@@ -1104,7 +1104,7 @@
       "category": "Chemistry",
       "acn": 20560,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "ETOH2U",
@@ -1118,30 +1118,8 @@
       "search": "Ferritin",
       "category": "Chemistry",
       "acn": 20570,
-      "status": "done",
-      "lastUpdate": "2026-10-01",
-      "est": {
-        "cvi": 12.9,
-        "cvg": 0.0
-      },
-      "opt": {
-        "cva": 3.2,
-        "bias": 1.6,
-        "te": 6.5,
-        "mau": 6.9
-      },
-      "des": {
-        "cva": 6.5,
-        "bias": 3.2,
-        "te": 12.9,
-        "mau": 13.9
-      },
-      "min": {
-        "cva": 9.7,
-        "bias": 4.8,
-        "te": 19.4,
-        "mau": 20.8
-      }
+      "status": "error",
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "FRA",
@@ -1149,7 +1127,7 @@
       "category": "Chemistry",
       "acn": 20580,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 2.3,
         "cvg": 6.3
@@ -1186,28 +1164,28 @@
       "category": "Chemistry",
       "acn": 20600,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 8.3,
-        "cvg": 45.1
+        "cvi": 8.2,
+        "cvg": 45.2
       },
       "opt": {
         "cva": 2.1,
         "bias": 5.7,
-        "te": 4.2,
-        "mau": 9.2
+        "te": 4.1,
+        "mau": 9.1
       },
       "des": {
-        "cva": 4.2,
+        "cva": 4.1,
         "bias": 11.5,
-        "te": 8.3,
-        "mau": 18.3
+        "te": 8.2,
+        "mau": 18.2
       },
       "min": {
-        "cva": 6.2,
+        "cva": 6.1,
         "bias": 17.2,
-        "te": 12.5,
-        "mau": 27.5
+        "te": 12.3,
+        "mau": 27.4
       }
     },
     {
@@ -1216,28 +1194,28 @@
       "category": "Chemistry",
       "acn": 20601,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 8.3,
-        "cvg": 45.1
+        "cvi": 8.2,
+        "cvg": 45.2
       },
       "opt": {
         "cva": 2.1,
         "bias": 5.7,
-        "te": 4.2,
-        "mau": 9.2
+        "te": 4.1,
+        "mau": 9.1
       },
       "des": {
-        "cva": 4.2,
+        "cva": 4.1,
         "bias": 11.5,
-        "te": 8.3,
-        "mau": 18.3
+        "te": 8.2,
+        "mau": 18.2
       },
       "min": {
-        "cva": 6.2,
+        "cva": 6.1,
         "bias": 17.2,
-        "te": 12.5,
-        "mau": 27.5
+        "te": 12.3,
+        "mau": 27.4
       }
     },
     {
@@ -1246,28 +1224,28 @@
       "category": "Chemistry",
       "acn": 20630,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 4.7,
-        "cvg": 8.0
+        "cvi": 4.9,
+        "cvg": 8.1
       },
       "opt": {
         "cva": 1.2,
         "bias": 1.2,
-        "te": 2.4,
-        "mau": 3.1
+        "te": 2.5,
+        "mau": 3.2
       },
       "des": {
-        "cva": 2.4,
-        "bias": 2.3,
-        "te": 4.7,
-        "mau": 6.2
+        "cva": 2.5,
+        "bias": 2.4,
+        "te": 4.9,
+        "mau": 6.4
       },
       "min": {
-        "cva": 3.5,
-        "bias": 3.5,
-        "te": 7.1,
-        "mau": 9.3
+        "cva": 3.7,
+        "bias": 3.6,
+        "te": 7.4,
+        "mau": 9.6
       }
     },
     {
@@ -1290,7 +1268,7 @@
       "category": "Chemistry",
       "acn": 20640,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 8.6,
         "cvg": 39.0
@@ -1320,7 +1298,7 @@
       "category": "Chemistry",
       "acn": 20700,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 6.1,
         "cvg": 27.3
@@ -1350,7 +1328,7 @@
       "category": "Chemistry",
       "acn": 20710,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 5.7,
         "cvg": 22.8
@@ -1380,7 +1358,7 @@
       "category": "Chemistry",
       "acn": 20720,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 7.5,
         "cvg": 32.5
@@ -1431,7 +1409,7 @@
       "category": "Chemistry",
       "acn": 20740,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 3.5,
         "cvg": 17.1
@@ -1475,7 +1453,7 @@
       "category": "Chemistry",
       "acn": 20750,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 5.9,
         "cvg": 48.5
@@ -1526,28 +1504,28 @@
       "category": "Chemistry",
       "acn": 20770,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 25.2,
-        "cvg": 28.0
+        "cvi": 27.6,
+        "cvg": 26.7
       },
       "opt": {
-        "cva": 6.3,
-        "bias": 4.7,
-        "te": 12.6,
-        "mau": 15.1
+        "cva": 6.9,
+        "bias": 4.8,
+        "te": 13.8,
+        "mau": 16.2
       },
       "des": {
-        "cva": 12.6,
-        "bias": 9.4,
-        "te": 25.2,
-        "mau": 30.2
+        "cva": 13.8,
+        "bias": 9.6,
+        "te": 27.6,
+        "mau": 32.4
       },
       "min": {
-        "cva": 18.9,
-        "bias": 14.1,
-        "te": 37.8,
-        "mau": 45.3
+        "cva": 20.7,
+        "bias": 14.4,
+        "te": 41.4,
+        "mau": 48.6
       }
     },
     {
@@ -1556,7 +1534,7 @@
       "category": "Chemistry",
       "acn": 29090,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 1.0,
         "cvg": 1.3
@@ -1600,28 +1578,28 @@
       "category": "Chemistry",
       "acn": 29080,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 3.9,
-        "cvg": 5.5
+        "cvi": 4.0,
+        "cvg": 4.1
       },
       "opt": {
         "cva": 1.0,
-        "bias": 0.8,
+        "bias": 0.7,
         "te": 2.0,
-        "mau": 2.5
+        "mau": 2.4
       },
       "des": {
         "cva": 2.0,
-        "bias": 1.7,
-        "te": 3.9,
-        "mau": 4.9
+        "bias": 1.4,
+        "te": 4.0,
+        "mau": 4.7
       },
       "min": {
-        "cva": 2.9,
-        "bias": 2.5,
-        "te": 5.9,
-        "mau": 7.4
+        "cva": 3.0,
+        "bias": 2.1,
+        "te": 6.0,
+        "mau": 7.1
       }
     },
     {
@@ -1644,10 +1622,10 @@
       "category": "Chemistry",
       "acn": 29070,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 0.5,
-        "cvg": 0.8
+        "cvg": 0.7
       },
       "opt": {
         "cva": 0.1,
@@ -1663,9 +1641,9 @@
       },
       "min": {
         "cva": 0.4,
-        "bias": 0.4,
+        "bias": 0.3,
         "te": 0.8,
-        "mau": 1.0
+        "mau": 0.9
       }
     },
     {
@@ -1688,7 +1666,7 @@
       "category": "Chemistry",
       "acn": 20780,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 5.9,
         "cvg": 14.6
@@ -1718,7 +1696,7 @@
       "category": "Chemistry",
       "acn": 20790,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 4.4,
         "cvg": 11.8
@@ -1748,7 +1726,7 @@
       "category": "Chemistry",
       "acn": 20791,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 4.4,
         "cvg": 11.8
@@ -1778,7 +1756,7 @@
       "category": "Chemistry",
       "acn": 20800,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 5.6,
         "cvg": 21.9
@@ -1808,7 +1786,7 @@
       "category": "Chemistry",
       "acn": 20810,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 4.4,
         "cvg": 11.8
@@ -1845,48 +1823,10 @@
       "category": "Chemistry",
       "acn": 20820,
       "status": "done",
-      "lastUpdate": "2026-10-01",
-      "est": {
-        "cvi": 7.4,
-        "cvg": 24.3
-      },
-      "opt": {
-        "cva": 1.9,
-        "bias": 3.2,
-        "te": 3.7,
-        "mau": 6.2
-      },
-      "des": {
-        "cva": 3.7,
-        "bias": 6.4,
-        "te": 7.4,
-        "mau": 12.5
-      },
-      "min": {
-        "cva": 5.6,
-        "bias": 9.5,
-        "te": 11.1,
-        "mau": 18.7
-      }
-    },
-    {
-      "test": "LI",
-      "search": "Lithium level",
-      "category": "Chemistry",
-      "acn": 20840,
-      "status": "error",
-      "lastUpdate": "2026-10-01"
-    },
-    {
-      "test": "LIP",
-      "search": "Lipase",
-      "category": "Chemistry",
-      "acn": 20850,
-      "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 7.6,
-        "cvg": 24.0
+        "cvg": 23.8
       },
       "opt": {
         "cva": 1.9,
@@ -1896,9 +1836,9 @@
       },
       "des": {
         "cva": 3.8,
-        "bias": 6.3,
+        "bias": 6.2,
         "te": 7.6,
-        "mau": 12.6
+        "mau": 12.5
       },
       "min": {
         "cva": 5.7,
@@ -1908,33 +1848,71 @@
       }
     },
     {
+      "test": "LI",
+      "search": "Lithium level",
+      "category": "Chemistry",
+      "acn": 20840,
+      "status": "error",
+      "lastUpdate": "2026-11-01"
+    },
+    {
+      "test": "LIP",
+      "search": "Lipase",
+      "category": "Chemistry",
+      "acn": 20850,
+      "status": "done",
+      "lastUpdate": "2026-11-01",
+      "est": {
+        "cvi": 7.6,
+        "cvg": 25.2
+      },
+      "opt": {
+        "cva": 1.9,
+        "bias": 3.3,
+        "te": 3.8,
+        "mau": 6.4
+      },
+      "des": {
+        "cva": 3.8,
+        "bias": 6.6,
+        "te": 7.6,
+        "mau": 12.9
+      },
+      "min": {
+        "cva": 5.7,
+        "bias": 9.9,
+        "te": 11.4,
+        "mau": 19.3
+      }
+    },
+    {
       "test": "LPA2",
       "search": "Lipoprotein (a)",
       "category": "Chemistry",
       "acn": 20860,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 10.2,
+        "cvi": 9.7,
         "cvg": 85.8
       },
       "opt": {
-        "cva": 2.6,
+        "cva": 2.4,
         "bias": 10.8,
-        "te": 5.1,
-        "mau": 15.0
+        "te": 4.9,
+        "mau": 14.8
       },
       "des": {
-        "cva": 5.1,
+        "cva": 4.9,
         "bias": 21.6,
-        "te": 10.2,
-        "mau": 30.0
+        "te": 9.7,
+        "mau": 29.6
       },
       "min": {
-        "cva": 7.7,
+        "cva": 7.3,
         "bias": 32.4,
-        "te": 15.3,
-        "mau": 45.0
+        "te": 14.6,
+        "mau": 44.4
       }
     },
     {
@@ -1943,28 +1921,28 @@
       "category": "Chemistry",
       "acn": 20890,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 2.7,
-        "cvg": 5.9
+        "cvi": 2.9,
+        "cvg": 5.6
       },
       "opt": {
         "cva": 0.7,
         "bias": 0.8,
-        "te": 1.4,
-        "mau": 1.9
+        "te": 1.5,
+        "mau": 2.0
       },
       "des": {
-        "cva": 1.4,
+        "cva": 1.5,
         "bias": 1.6,
-        "te": 2.7,
-        "mau": 3.8
+        "te": 2.9,
+        "mau": 4.0
       },
       "min": {
-        "cva": 2.0,
+        "cva": 2.2,
         "bias": 2.4,
-        "te": 4.1,
-        "mau": 5.8
+        "te": 4.4,
+        "mau": 6.0
       }
     },
     {
@@ -2078,14 +2056,14 @@
       "category": "Chemistry",
       "acn": 20990,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 7.7,
-        "cvg": 10.7
+        "cvg": 10.8
       },
       "opt": {
         "cva": 1.9,
-        "bias": 1.6,
+        "bias": 1.7,
         "te": 3.9,
         "mau": 4.8
       },
@@ -2093,11 +2071,11 @@
         "cva": 3.9,
         "bias": 3.3,
         "te": 7.7,
-        "mau": 9.6
+        "mau": 9.7
       },
       "min": {
         "cva": 5.8,
-        "bias": 4.9,
+        "bias": 5.0,
         "te": 11.6,
         "mau": 14.5
       }
@@ -2269,7 +2247,7 @@
       "category": "Chemistry",
       "acn": 21110,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 6.9,
         "cvg": 12.7
@@ -2313,28 +2291,28 @@
       "category": "Chemistry",
       "acn": 21130,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 19.8,
-        "cvg": 35.3
+        "cvg": 37.9
       },
       "opt": {
         "cva": 5.0,
-        "bias": 5.1,
+        "bias": 5.3,
         "te": 9.9,
-        "mau": 13.2
+        "mau": 13.5
       },
       "des": {
         "cva": 9.9,
-        "bias": 10.1,
+        "bias": 10.7,
         "te": 19.8,
-        "mau": 26.5
+        "mau": 27.0
       },
       "min": {
         "cva": 14.9,
-        "bias": 15.2,
+        "bias": 16.0,
         "te": 29.7,
-        "mau": 39.7
+        "mau": 40.5
       }
     },
     {
@@ -2343,7 +2321,7 @@
       "category": "Chemistry",
       "acn": 21150,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 6.9,
         "cvg": 19.1
@@ -2373,28 +2351,28 @@
       "category": "Chemistry",
       "acn": 21170,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 8.3,
-        "cvg": 20.9
+        "cvi": 8.1,
+        "cvg": 21.2
       },
       "opt": {
-        "cva": 2.1,
+        "cva": 2.0,
         "bias": 2.8,
-        "te": 4.2,
+        "te": 4.1,
         "mau": 6.2
       },
       "des": {
-        "cva": 4.2,
-        "bias": 5.6,
-        "te": 8.3,
-        "mau": 12.5
+        "cva": 4.1,
+        "bias": 5.7,
+        "te": 8.1,
+        "mau": 12.4
       },
       "min": {
-        "cva": 6.2,
-        "bias": 8.4,
-        "te": 12.5,
-        "mau": 18.7
+        "cva": 6.1,
+        "bias": 8.5,
+        "te": 12.1,
+        "mau": 18.5
       }
     },
     {
@@ -2410,28 +2388,28 @@
       "category": "Chemistry",
       "acn": 21192,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 13.1,
-        "cvg": 20.3
+        "cvi": 12.9,
+        "cvg": 20.2
       },
       "opt": {
-        "cva": 3.3,
+        "cva": 3.2,
         "bias": 3.0,
-        "te": 6.6,
-        "mau": 8.4
+        "te": 6.5,
+        "mau": 8.3
       },
       "des": {
-        "cva": 6.6,
+        "cva": 6.5,
         "bias": 6.0,
-        "te": 13.1,
-        "mau": 16.8
+        "te": 12.9,
+        "mau": 16.6
       },
       "min": {
-        "cva": 9.8,
-        "bias": 9.1,
-        "te": 19.7,
-        "mau": 25.3
+        "cva": 9.7,
+        "bias": 9.0,
+        "te": 19.4,
+        "mau": 25.0
       }
     },
     {
@@ -2503,7 +2481,7 @@
       "category": "Immunology",
       "acn": 10209,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 4.6,
         "cvg": 55.2
@@ -2582,7 +2560,7 @@
       "category": "Immunology",
       "acn": 10158,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 19.2,
         "cvg": 20.4
@@ -2612,7 +2590,7 @@
       "category": "Immunology",
       "acn": 10202,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "ATPO",
@@ -2620,7 +2598,7 @@
       "category": "Immunology",
       "acn": 10066,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "ATSHR",
@@ -2635,7 +2613,7 @@
       "category": "Immunology",
       "acn": 10088,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 7.2,
         "cvg": 37.0
@@ -2665,7 +2643,7 @@
       "category": "Immunology",
       "acn": 10002,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "CA 19-9",
@@ -2673,7 +2651,7 @@
       "category": "Immunology",
       "acn": 10019,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 4.3,
         "cvg": 57.4
@@ -2703,7 +2681,7 @@
       "category": "Immunology",
       "acn": 10225,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 50.3,
         "cvg": 103.4
@@ -2733,7 +2711,7 @@
       "category": "Immunology",
       "acn": 10018,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 8.7,
         "cvg": 25.5
@@ -2763,7 +2741,7 @@
       "category": "Immunology",
       "acn": 10003,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 6.8,
         "cvg": 59.3
@@ -2793,7 +2771,7 @@
       "category": "Immunology",
       "acn": 10041,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "CKMBST",
@@ -2829,28 +2807,28 @@
       "category": "Immunology",
       "acn": 10042,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 16.2,
-        "cvg": 21.5
+        "cvi": 16.4,
+        "cvg": 24.1
       },
       "opt": {
         "cva": 4.1,
-        "bias": 3.4,
-        "te": 8.1,
-        "mau": 10.0
+        "bias": 3.6,
+        "te": 8.2,
+        "mau": 10.4
       },
       "des": {
-        "cva": 8.1,
-        "bias": 6.7,
-        "te": 16.2,
-        "mau": 20.1
+        "cva": 8.2,
+        "bias": 7.3,
+        "te": 16.4,
+        "mau": 20.8
       },
       "min": {
-        "cva": 12.1,
-        "bias": 10.1,
-        "te": 24.3,
-        "mau": 30.1
+        "cva": 12.3,
+        "bias": 10.9,
+        "te": 24.6,
+        "mau": 31.2
       }
     },
     {
@@ -2866,7 +2844,7 @@
       "category": "Immunology",
       "acn": 10081,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "CPEPTID - Urine",
@@ -2881,7 +2859,7 @@
       "category": "Immunology",
       "acn": 10062,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 14.5,
         "cvg": 44.4
@@ -2918,7 +2896,7 @@
       "category": "Immunology",
       "acn": 10030,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "DHEAS",
@@ -2926,7 +2904,7 @@
       "category": "Immunology",
       "acn": 10068,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 20.0,
         "cvg": 49.0
@@ -2970,7 +2948,7 @@
       "category": "Immunology",
       "acn": 10100,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 15.0,
         "cvg": 18.1
@@ -3013,30 +2991,8 @@
       "search": "Ferritin",
       "category": "Immunology",
       "acn": 10034,
-      "status": "done",
-      "lastUpdate": "2026-10-01",
-      "est": {
-        "cvi": 12.9,
-        "cvg": 0.0
-      },
-      "opt": {
-        "cva": 3.2,
-        "bias": 1.6,
-        "te": 6.5,
-        "mau": 6.9
-      },
-      "des": {
-        "cva": 6.5,
-        "bias": 3.2,
-        "te": 12.9,
-        "mau": 13.9
-      },
-      "min": {
-        "cva": 9.7,
-        "bias": 4.8,
-        "te": 19.4,
-        "mau": 20.8
-      }
+      "status": "error",
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "FOL",
@@ -3044,7 +3000,7 @@
       "category": "Immunology",
       "acn": 10168,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 11.2,
         "cvg": 26.5
@@ -3074,7 +3030,7 @@
       "category": "Immunology",
       "acn": 10188,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 7.1,
         "cvg": 46.2
@@ -3104,7 +3060,7 @@
       "category": "Immunology",
       "acn": 10207,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 9.5,
         "cvg": 37.9
@@ -3134,7 +3090,7 @@
       "category": "Immunology",
       "acn": 10220,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 5.1,
         "cvg": 8.1
@@ -3164,7 +3120,7 @@
       "category": "Immunology",
       "acn": 10195,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 4.8,
         "cvg": 8.0
@@ -3236,7 +3192,7 @@
       "category": "Immunology",
       "acn": 10191,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 13.0,
         "cvg": 65.8
@@ -3266,7 +3222,7 @@
       "category": "Immunology",
       "acn": 10102,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 7.1,
         "cvg": 17.9
@@ -3296,7 +3252,7 @@
       "category": "Immunology",
       "acn": 10096,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "HIVDUO",
@@ -3332,7 +3288,7 @@
       "category": "Immunology",
       "acn": 10057,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "IGF-1",
@@ -3340,7 +3296,7 @@
       "category": "Immunology",
       "acn": 10116,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 9.4,
         "cvg": 27.0
@@ -3370,7 +3326,7 @@
       "category": "Immunology",
       "acn": 10117,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "IL6",
@@ -3378,7 +3334,7 @@
       "category": "Immunology",
       "acn": 10085,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 31.9,
         "cvg": 39.2
@@ -3408,7 +3364,7 @@
       "category": "Immunology",
       "acn": 10059,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 25.4,
         "cvg": 33.5
@@ -3438,7 +3394,7 @@
       "category": "Immunology",
       "acn": 10113,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 25.2,
         "cvg": 21.4
@@ -3482,7 +3438,7 @@
       "category": "Immunology",
       "acn": 10073,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 10.9,
         "cvg": 16.6
@@ -3512,7 +3468,7 @@
       "category": "Immunology",
       "acn": 10060,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 8.7,
         "cvg": 32.0
@@ -3577,7 +3533,7 @@
       "category": "Immunology",
       "acn": 10038,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "PRL 2",
@@ -3585,7 +3541,7 @@
       "category": "Immunology",
       "acn": 10111,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 45.0,
         "cvg": 64.3
@@ -3615,7 +3571,7 @@
       "category": "Immunology",
       "acn": 10045,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 18.5,
         "cvg": 39.7
@@ -3645,7 +3601,7 @@
       "category": "Immunology",
       "acn": 10108,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "PTH",
@@ -3653,7 +3609,7 @@
       "category": "Immunology",
       "acn": 10204,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 14.7,
         "cvg": 28.9
@@ -3711,7 +3667,7 @@
       "category": "Immunology",
       "acn": 10169,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "RUBIGG",
@@ -3733,7 +3689,7 @@
       "category": "Immunology",
       "acn": 10118,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 10.2,
         "cvg": 32.7
@@ -3770,7 +3726,7 @@
       "category": "Immunology",
       "acn": 10046,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "SHBG",
@@ -3778,7 +3734,7 @@
       "category": "Immunology",
       "acn": 10071,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "SRL",
@@ -3807,10 +3763,40 @@
       "category": "Immunology",
       "acn": 10032,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 6.3,
+        "cvi": 6.2,
         "cvg": 12.4
+      },
+      "opt": {
+        "cva": 1.6,
+        "bias": 1.7,
+        "te": 3.1,
+        "mau": 4.3
+      },
+      "des": {
+        "cva": 3.1,
+        "bias": 3.5,
+        "te": 6.2,
+        "mau": 8.6
+      },
+      "min": {
+        "cva": 4.7,
+        "bias": 5.2,
+        "te": 9.3,
+        "mau": 12.9
+      }
+    },
+    {
+      "test": "T4",
+      "search": "Thyroxine - total (T4)",
+      "category": "Immunology",
+      "acn": 10120,
+      "status": "done",
+      "lastUpdate": "2026-11-01",
+      "est": {
+        "cvi": 6.4,
+        "cvg": 11.8
       },
       "opt": {
         "cva": 1.6,
@@ -3820,45 +3806,15 @@
       },
       "des": {
         "cva": 3.2,
-        "bias": 3.5,
-        "te": 6.3,
-        "mau": 8.7
-      },
-      "min": {
-        "cva": 4.7,
-        "bias": 5.2,
-        "te": 9.5,
-        "mau": 13.0
-      }
-    },
-    {
-      "test": "T4",
-      "search": "Thyroxine - total (T4)",
-      "category": "Immunology",
-      "acn": 10120,
-      "status": "done",
-      "lastUpdate": "2026-10-01",
-      "est": {
-        "cvi": 6.2,
-        "cvg": 11.9
-      },
-      "opt": {
-        "cva": 1.6,
-        "bias": 1.7,
-        "te": 3.1,
-        "mau": 4.2
-      },
-      "des": {
-        "cva": 3.1,
         "bias": 3.4,
-        "te": 6.2,
-        "mau": 8.5
+        "te": 6.4,
+        "mau": 8.6
       },
       "min": {
-        "cva": 4.7,
+        "cva": 4.8,
         "bias": 5.0,
-        "te": 9.3,
-        "mau": 12.7
+        "te": 9.6,
+        "mau": 13.0
       }
     },
     {
@@ -3874,7 +3830,7 @@
       "category": "Immunology",
       "acn": 10020,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 14.3,
         "cvg": 22.7
@@ -3904,28 +3860,28 @@
       "category": "Immunology",
       "acn": 10215,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 10.8,
-        "cvg": 79.3
+        "cvi": 10.9,
+        "cvg": 79.8
       },
       "opt": {
         "cva": 2.7,
-        "bias": 10.0,
-        "te": 5.4,
-        "mau": 14.5
+        "bias": 10.1,
+        "te": 5.5,
+        "mau": 14.6
       },
       "des": {
-        "cva": 5.4,
-        "bias": 20.0,
-        "te": 10.8,
-        "mau": 28.9
+        "cva": 5.5,
+        "bias": 20.1,
+        "te": 10.9,
+        "mau": 29.1
       },
       "min": {
-        "cva": 8.1,
-        "bias": 30.0,
-        "te": 16.2,
-        "mau": 43.4
+        "cva": 8.2,
+        "bias": 30.2,
+        "te": 16.4,
+        "mau": 43.7
       }
     },
     {
@@ -3934,7 +3890,7 @@
       "category": "Immunology",
       "acn": 10086,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     },
     {
       "test": "TNIST",
@@ -3956,28 +3912,28 @@
       "category": "Immunology",
       "acn": 10239,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 11.1,
+        "cvi": 11.0,
         "cvg": 34.4
       },
       "opt": {
         "cva": 2.8,
         "bias": 4.5,
-        "te": 5.6,
+        "te": 5.5,
         "mau": 9.1
       },
       "des": {
-        "cva": 5.6,
+        "cva": 5.5,
         "bias": 9.0,
-        "te": 11.1,
-        "mau": 18.2
+        "te": 11.0,
+        "mau": 18.1
       },
       "min": {
         "cva": 8.3,
-        "bias": 13.6,
-        "te": 16.7,
-        "mau": 27.3
+        "bias": 13.5,
+        "te": 16.5,
+        "mau": 27.2
       }
     },
     {
@@ -4007,7 +3963,7 @@
       "category": "Immunology",
       "acn": 10185,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 6.8,
         "cvg": 42.0
@@ -4037,28 +3993,28 @@
       "category": "Immunology",
       "acn": 10172,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
-        "cvi": 17.8,
-        "cvg": 36.0
+        "cvi": 17.9,
+        "cvg": 36.1
       },
       "opt": {
         "cva": 4.5,
         "bias": 5.0,
-        "te": 8.9,
+        "te": 9.0,
         "mau": 12.4
       },
       "des": {
-        "cva": 8.9,
-        "bias": 10.0,
-        "te": 17.8,
-        "mau": 24.7
+        "cva": 9.0,
+        "bias": 10.1,
+        "te": 17.9,
+        "mau": 24.8
       },
       "min": {
         "cva": 13.4,
         "bias": 15.1,
-        "te": 26.7,
-        "mau": 37.1
+        "te": 26.9,
+        "mau": 37.3
       }
     },
     {
@@ -4067,7 +4023,7 @@
       "category": "Immunology",
       "acn": 10194,
       "status": "done",
-      "lastUpdate": "2026-10-01",
+      "lastUpdate": "2026-11-01",
       "est": {
         "cvi": 6.8,
         "cvg": 37.6
@@ -4097,7 +4053,7 @@
       "category": "Immunology",
       "acn": 10119,
       "status": "error",
-      "lastUpdate": "2026-10-01"
+      "lastUpdate": "2026-11-01"
     }
   ]
 }
